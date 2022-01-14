@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I enjoy teaching and have taught the following courses where I led dicussion sessions.
 nav: true
 ---
 
@@ -10,7 +10,6 @@ nav: true
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-I enjoy teaching and have taught the following courses at Berkeley and at McGill where I led dicussion sessions. <br>
 UC Berkeley: <br>
 🧑‍🏫 PHYS 112: Introduction to Statistical and Thermal Physics <br>
 🧑‍🏫 PHYS 5B: Introductory Electromagnetism, Waves, and Optics <br>
