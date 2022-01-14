@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: Publications in reversed chronological order.
 years: [1956, 2021, 1935, 1905]
 nav: true
