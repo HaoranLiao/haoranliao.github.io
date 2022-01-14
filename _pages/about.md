@@ -23,10 +23,12 @@ I am a physics Ph.D. candidate at UC Berkeley studying quantum information and c
 Besides physics, I am also interested in data science, machine learning, computer science and their interplays with physics.
 
 <h2>Education</h2>
-🎓 Ph.D. in Physics (expected 2023)
-     University of California, Berkeley
+🎓 Ph.D. in Physics (2018 - 2023) (Expected 06/2023) <br>
+   University of California, Berkeley
 
-🎓 McGill University (2014-2018)
+🎓 B.Sc. Honours Mathematics and Physics (2014 - 2018) <br>
+   McGill University
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
