@@ -22,7 +22,7 @@ I am a physics Ph.D. candidate at UC Berkeley studying quantum information and c
 
 Besides physics, I am also interested in data science, machine learning, computer science and their interplays with physics.
 
-In my free time, I like hiking, playing the piano and traveling. <br><br><br>
+In my free time, I like hiking, playing the piano and traveling. <br><br>
 
 
 <h4>Education</h4>
