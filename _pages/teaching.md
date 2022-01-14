@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: I enjoy teaching and have taught the following courses where I led dicussion sessions.
 nav: true
 ---
