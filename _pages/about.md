@@ -22,14 +22,15 @@ I am a physics Ph.D. candidate at UC Berkeley studying quantum information and c
 
 Besides physics, I am also interested in data science, machine learning, computer science and their interplays with physics.
 
-<h4>Education</h4>
-<pre>
-🎓 Ph.D. in Physics (2018 - 2023) (Expected 06/2023) <br>
-   University of California, Berkeley
-</pre>
 
-🎓 B.Sc. Honours Mathematics and Physics (2014 - 2018) <br>
-   McGill University
+
+
+<h4>Education</h4>
+🎓 Ph.D. in Physics (2018 - 2023) (Expected 06/2023) <br>
+&nbsp;&nbsp;&nbsp;University of California, Berkeley
+
+🎓 B.Sc. in Honours Mathematics and Physics (2014 - 2018) <br>
+&nbsp;&nbsp;&nbsp;McGill University
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
