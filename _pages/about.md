@@ -27,10 +27,10 @@ Besides physics, I am also interested in data science, machine learning, compute
 
 <h4>Education</h4>
 🎓 Ph.D. in Physics (2018 - 2023) (Expected 06/2023) <br>
-&nbsp;&nbsp;&nbsp;University of California, Berkeley
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Berkeley
 
 🎓 B.Sc. in Honours Mathematics and Physics (2014 - 2018) <br>
-&nbsp;&nbsp;&nbsp;McGill University
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGill University
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
