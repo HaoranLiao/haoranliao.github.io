@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title:About
 permalink: /
 subtitle: <a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
@@ -9,8 +9,8 @@ profile:
   align: right
   image: my_pic.jpeg
   address: >
-    <p>409 Birge Hall</p>
-    <p>100 South Dr</p>
+    <p>409 Birge Hall,</p>
+    <p>100 South Dr,</p>
     <p>Berkeley, CA 94720</p>
 
 news: false  # includes a list of news items
