@@ -14,6 +14,7 @@ UC Berkeley: <br>
 - PHYS 112: Introduction to Statistical and Thermal Physics <br>
 - PHYS 5B: Introductory Electromagnetism, Waves, and Optics <br>
 - PHYS 7B: Physics for Scientists and Engineers <br>
+
 McGill: <br>
 - MATH 235: Abstract Algebra I <br>
 - MATH 315: Ordinary Differential Equations
