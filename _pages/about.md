@@ -14,11 +14,11 @@ profile:
     <p>Berkeley, CA 94720</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={false}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a physics Ph.D. candidate at UC Berkeley studying quantum information and computation. I do research on quantum machine learning, quantum error correction and superconducting qubits. 
+I am a physics Ph.D. candidate at UC Berkeley studying quantum information and computation. I do research on quantum machine learning, quantum error correction and superconducting qubits. Here is my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>wordcloud</a>.
 
 Besides physics, I am also interested in data science, machine learning, computer science and their interplays with physics.
 
@@ -26,10 +26,10 @@ In my free time, I like hiking, playing the piano and traveling. <br><br><br>
 
 
 <h4>Education</h4>
-🎓 Ph.D. in Physics (2018 - 2023) (Expected 06/2023) <br>
+🎓 Ph.D. in Physics (2018&ndash;2023) (Expected 06/2023) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Berkeley
 
-🎓 B.Sc. in Honours Mathematics and Physics (2014 - 2018) <br>
+🎓 B.Sc. in Honours Mathematics and Physics (2014&ndash;2018) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;McGill University
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
