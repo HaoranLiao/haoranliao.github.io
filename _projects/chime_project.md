@@ -18,5 +18,5 @@ Below are my presentation slides at the <a href="https://msi.mcgill.ca/index.php
 
 Below are my poster and research report.
 <iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="750" allow="autoplay"></iframe>
-<iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="980" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="990" allow="autoplay"></iframe>
 
