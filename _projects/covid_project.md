@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19 Forecast
-description: US Weekly COVID-19 Statistics Forecast
+description: US weekly COVID-19 statistics forecast
 img: assets/img/12.jpg
 importance: 1
 category: data & cs
