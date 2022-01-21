@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diffusion Analysis
+title: Confined Diffusion
 description: Confine nanoparticles and analyze their Brownian motions 
 img: assets/img/12.jpg
 importance: 2
