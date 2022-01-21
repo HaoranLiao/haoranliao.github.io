@@ -20,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/index.php/People/BirgittaWhaley">Professor K. Birgitta Whaley's group</a> at UC Berkeley studying quantum information and computation. I do research on quantum machine learning, quantum error correction and superconducting qubits. Here is my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>wordcloud</a>. I am co-supervised by <a href="http://qnl.berkeley.edu/team-view/team/">Professor Irfan Siddiqi </a>.
 
-Besides physics, I am also interested in data science, machine learning, computer science and their interplays with physics.
+Besides physics, I am also interested in machine learning, computer science and their interplays with physics.
 
-In my free time, I like hiking, playing the piano and traveling. <br><br><br>
+In my free time, I enjoy hiking, playing the piano, and traveling and I try to take good photographs. <br><br><br>
 
 
 <h4>Education</h4>
