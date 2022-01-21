@@ -24,7 +24,7 @@ Besides physics, I am also interested in machine learning, computer science and 
 
 In my free time, I enjoy hiking, playing the piano, traveling and I try to take good photographs. 
 
-<br><br>
+<br>
 
 <h4>Education</h4>
 🎓 Ph.D. in Physics (2018&ndash;2023) (Expected 06/2023) <br>
