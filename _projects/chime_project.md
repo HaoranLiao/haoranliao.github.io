@@ -15,7 +15,9 @@ for FRBs. The FRB search using CHIME has been in operation since 2018.
 Below are my presentation slides at the <a href="https://msi.mcgill.ca/index.php?mact=LISESeminars,cntnt01,detail,0&cntnt01item=msi-and-trottier-fellows-research-showcase&cntnt01returnid=61">MSI and Trottier Fellows Research Showcase</a> in July 2017.
 
 <iframe src="https://drive.google.com/file/d/1VbUdTCKCbIOoMJA2oU0kqhYx4siZzHJG/preview" width="770" height="880" allow="autoplay"></iframe>
-
+<br>
+<br>
+<br>
 Below are my poster and research report.
 <iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="750" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="990" allow="autoplay"></iframe>
