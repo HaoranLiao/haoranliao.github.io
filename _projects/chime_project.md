@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fast Radio Bursts
-description: Searching for Fast Radio Bursts
+title:  Fast Radio Bursts
+description: Searching for Extragalactic Signals with the CHIME Telescope
 img: assets/img/12.jpg
 importance: 1
 category: physics
