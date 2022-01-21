@@ -4,7 +4,7 @@ title: Fast Radio Bursts
 description: Searching for Fast Radio Bursts
 img: assets/img/12.jpg
 importance: 1
-category: data & cs
+category: physics
 ---
 
 Fast radio bursts (FRBs) are rapid (millisecond duration) and bright radio transients that appear to come from extragalactic origins. The nature of FRBs is still a mystery. The leading theories suggest that FRBs come from incredibly volatile cosmic events, such as material being ejected from supermassive black holes, the explosions of superluminous supernovae, or rotating young magnetars.
@@ -16,4 +16,7 @@ Below are my presentation slides at the <a href="https://msi.mcgill.ca/index.php
 
 <iframe src="https://drive.google.com/file/d/1VbUdTCKCbIOoMJA2oU0kqhYx4siZzHJG/preview" width="770" height="880" allow="autoplay"></iframe>
 
+Below are my poster and research report.
+<iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="1080" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="1080" allow="autoplay"></iframe>
 
