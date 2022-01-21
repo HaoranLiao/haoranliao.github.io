@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/index.php/People/BirgittaWhaley">Professor K. Birgitta Whaley's group</a> at UC Berkeley studying quantum information and computation. I do research on quantum machine learning, quantum error correction and superconducting qubits. Here is my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>wordcloud</a>. I am co-supervised by <a href="http://qnl.berkeley.edu/team-view/team/">Professor Irfan Siddiqi </a>.
+I am a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/index.php/People/BirgittaWhaley">Professor K. Birgitta Whaley's group</a> studying quantum information and computation. I do research on quantum machine learning, quantum error correction and superconducting qubits. Here is my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>wordcloud</a>. I am co-supervised by <a href="http://qnl.berkeley.edu/team-view/team/">Professor Irfan Siddiqi </a>.
 
 Besides physics, I am also interested in machine learning, computer science and their interplays with physics.
 
