@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning Reward Functions
-description: Random Expert Distillation for Reinforcement Learning
+description: Random Expert Distillation for reinforcement learning
 img: assets/img/12.jpg
 importance: 2
 category: data & cs
