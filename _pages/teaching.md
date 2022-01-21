@@ -11,11 +11,11 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 UC Berkeley: <br>
-- PHYS 112: Introduction to Statistical and Thermal Physics <br>
+- PHYS 112: Statistical Mechanics<br>
 - PHYS 5B: Introductory Electromagnetism, Waves, and Optics <br>
 - PHYS 7B: Physics for Scientists and Engineers <br>
 
 McGill: <br>
 - MATH 235: Abstract Algebra I <br>
 - MATH 315: Ordinary Differential Equations<br>
-(Awarded Tomlinson Engagement Award for Mentoring)
+(awarded Tomlinson Engagement Award for Mentoring)
