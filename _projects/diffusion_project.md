@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Diffusion Analysis
-description: Confine nanoparticles and analyze their Brownian motion trajectories 
+description: Confine nanoparticles and analyze their Brownian motions 
 img: assets/img/12.jpg
 importance: 2
 category: physics
