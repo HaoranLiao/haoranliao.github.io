@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Covid-19
-description: US Weekly Covid Forecast
+description: US Weekly Covid-19 Forecast
 img: assets/img/12.jpg
 importance: 1
 category: data & cs
