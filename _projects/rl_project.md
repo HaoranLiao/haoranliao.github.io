@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Learning Reward Functions
+title: Learn Reward Functions
 description: Random Expert Distillation for reinforcement learning
 img: assets/img/12.jpg
 importance: 2
