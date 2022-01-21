@@ -22,7 +22,7 @@ I am a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/
 
 Besides physics, I am also interested in machine learning, computer science and their interplays with physics.
 
-In my free time, I enjoy hiking, playing the piano, and traveling and I try to take good photographs. 
+In my free time, I enjoy hiking, playing the piano, traveling and I try to take good photographs. 
 
 <br><br>
 
