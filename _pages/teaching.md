@@ -18,4 +18,4 @@ UC Berkeley: <br>
 McGill: <br>
 - MATH 235: Abstract Algebra I <br>
 - MATH 315: Ordinary Differential Equations<br>
-&nbsp;&nbsp;(Awarded Tomlinson Engagement Award for Mentoring)
+&nbsp;(Awarded Tomlinson Engagement Award for Mentoring)
