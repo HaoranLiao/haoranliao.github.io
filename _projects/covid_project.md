@@ -21,7 +21,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
     
 
-<iframe src="https://drive.google.com/file/d/1-6QBwHcB46x2rtJ-qQ1Lk-vGf1gXzfVD/preview" width="740" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1-6QBwHcB46x2rtJ-qQ1Lk-vGf1gXzfVD/preview" width="800" height="1100" allow="autoplay"></iframe>
 
     
 
