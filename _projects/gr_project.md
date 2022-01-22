@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Positive Energy
-description: A guide through Witten's positive energy theorem 
+description: A guide through Witten's proof of the positive energy theorem 
 img: assets/img/12.jpg
 importance: 3
 category: physics
