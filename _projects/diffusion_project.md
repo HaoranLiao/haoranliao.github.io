@@ -14,6 +14,6 @@ My presentation was awarded <a href="https://www.mcgill.ca/science/research/unde
 <br>
 <br>
 <br>
-And below is my research report.
+Below is my undergraduate thesis on this project.
 <iframe src="https://drive.google.com/file/d/1LP4wVLNNnHoa3KSZCnnsZZ8NVDRM_zqH/preview" width="770" height="990" allow="autoplay"></iframe>
 
