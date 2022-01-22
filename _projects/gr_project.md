@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Positive Energy Theorem
+title: Positive Energy
 description: A guide through Witten's positive energy theorem 
 img: assets/img/12.jpg
 importance: 3
