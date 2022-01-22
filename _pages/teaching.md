@@ -11,11 +11,11 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 UC Berkeley: <br>
-- PHYS 112 Statistical Mechanics<br>
-- PHYS 5B Electromagnetism, Waves, and Optics <br>
-- PHYS 7B Physics for Scientists and Engineers <br>
+- <a href="https://sps.berkeley.edu/wiki/index.php?title=Physics_112">PHYS 112</a> Statistical Mechanics<br>
+- <a href="https://sps.berkeley.edu/wiki/index.php?title=Physics_5B">PHYS 5B</a> Electromagnetism, Waves, and Optics <br>
+- <a href="https://sps.berkeley.edu/wiki/index.php?title=Physics_7B">PHYS 7B</a> Physics for Scientists and Engineers <br>
 
 McGill: <br>
-- MATH 235 Abstract Algebra I <br>
-- MATH 315 Ordinary Differential Equations<br>
+- <a href="https://www.mcgill.ca/study/2021-2022/courses/math-235">MATH 235</a> Abstract Algebra I <br>
+- <a href="https://www.mcgill.ca/study/2021-2022/courses/math-315">MATH 315</a> Ordinary Differential Equations<br>
 (awarded Tomlinson Engagement Award for Mentoring)
