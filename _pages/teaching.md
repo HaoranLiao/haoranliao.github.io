@@ -11,11 +11,11 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 UC Berkeley: <br>
-- PHYS 112: Statistical Mechanics<br>
-- PHYS 5B: Electromagnetism, Waves, and Optics <br>
-- PHYS 7B: Physics for Scientists and Engineers <br>
+- PHYS 112 Statistical Mechanics<br>
+- PHYS 5B Electromagnetism, Waves, and Optics <br>
+- PHYS 7B Physics for Scientists and Engineers <br>
 
 McGill: <br>
-- MATH 235: Abstract Algebra I <br>
-- MATH 315: Ordinary Differential Equations<br>
+- MATH 235 Abstract Algebra I <br>
+- MATH 315 Ordinary Differential Equations<br>
 (awarded Tomlinson Engagement Award for Mentoring)
