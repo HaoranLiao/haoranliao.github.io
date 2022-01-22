@@ -2,7 +2,7 @@
 layout: page
 title: Learn Reward Functions
 description: Random Expert Distillation for reinforcement learning
-img: assets/img/mspacman.jpeg
+img: assets/img/quantum.jpeg
 importance: 2
 category: data & cs
 ---
