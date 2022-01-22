@@ -2,7 +2,7 @@
 layout: page
 title: Confined Diffusion
 description: Confine nanoparticles and analyze their Brownian motions 
-img: assets/img/12.jpg
+img: assets/img/milky.jpeg
 importance: 2
 category: physics
 ---
