@@ -10,7 +10,7 @@ profile:
   image: my_pic.jpeg
   address: >
     <p>409 Birge Hall,</p>
-    <p>100 South Dr,</p>
+    <p>100 South Drive,</p>
     <p>Berkeley, CA 94720</p>
 
 news: false  # includes a list of news items
