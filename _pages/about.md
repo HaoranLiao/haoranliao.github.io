@@ -7,7 +7,7 @@ subtitle: <a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranL
 
 profile:
   align: right
-  image: my_pic.jpeg
+  image: my_pic.jpg
   address: >
     <p><small>409 Birge Hall,</small></p>
     <p><small>Berkeley, CA 94720</small></p>
