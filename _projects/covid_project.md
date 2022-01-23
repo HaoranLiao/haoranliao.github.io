@@ -2,7 +2,7 @@
 layout: page
 title: COVID-19 Forecast
 description: US weekly COVID-19 forecast with engineered features
-img: assets/img/12.jpg
+img: assets/img/data.jpeg
 importance: 1
 category: data & cs
 ---
