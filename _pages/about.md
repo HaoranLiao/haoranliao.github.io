@@ -9,9 +9,9 @@ profile:
   align: right
   image: my_pic.jpeg
   address: >
-    <p><h6>409 Birge Hall,</h6></p>
-    <p><h6>Berkeley, CA 94720</h6></p>
-    <p><small>(Safari may not display)</small></p>
+    <p><small>409 Birge Hall,</small></p>
+    <p><small>Berkeley, CA 94720</small></p>
+    <p><sub>(Safari may not display)</sub></p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
