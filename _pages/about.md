@@ -22,7 +22,7 @@ I am a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/
 
 My projects, publications and teaching experience can be accessed through the tabs at the top. Besides physics, I am also interested in machine learning, computer science and their interplays with physics.
 
-In my free time, I enjoy hiking, playing the piano, traveling. I also like taking photographs, and here are my <a href="https://lhr.myportfolio.com/">albums</a> and <a href="https://500px.com/p/haoranliao2?view=photos">500px</a>. 
+In my free time, I enjoy hiking, playing the piano, and traveling. I also like taking photographs, and here are my <a href="https://lhr.myportfolio.com/">albums</a> and <a href="https://500px.com/p/haoranliao2?view=photos">500px</a>. 
 
 <br>
 
