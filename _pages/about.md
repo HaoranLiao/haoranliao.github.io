@@ -11,7 +11,8 @@ profile:
   address: >
     <p><small>409 Birge Hall,</small></p>
     <p><small>Berkeley, CA 94720</small></p>
-    <p><sub>(Safari may not display images)</sub></p><br>
+    <p><sub>[Safari may not display images]</sub></p>
+    <p> </p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
