@@ -7,6 +7,6 @@ importance: 1
 category: presentation
 ---
 
-We were invited for talk on our paper *Machine Learning for Continuous Quantum Error Correction on Superconducting Qubits* at the biweekly colloquium of <a href="https://quantumsystemsaccelerator.org/">Quantum Systems Accelerator</a>. 
+We were invited for a talk on our paper *Machine Learning for Continuous Quantum Error Correction on Superconducting Qubits* at the biweekly colloquium of <a href="https://quantumsystemsaccelerator.org/">Quantum Systems Accelerator</a> in January 2022. You may learn more about it in our slides below. You can also check us out in the <a href="https://meetings.aps.org/Meeting/MAR22/Session/T40.13">2022 American Physical Society (APS) March Meeting</a>.
 
 <iframe src="https://drive.google.com/file/d/1Jk7HOUNi5zmT6q6TTZ2XVrB3VZ8OSQyS/preview" width="770" height="880" allow="autoplay"></iframe>
