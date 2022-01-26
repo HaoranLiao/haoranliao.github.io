@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 description: A collection of past projects and presentations.
 nav: true
-display_categories: [data & cs, physics, presentation, fun]
+display_categories: [data & cs, physics, talk, fun]
 horizontal: false
 ---
 
