@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A collection of past projects and presentations.
+description: A collection of past projects and talks.
 nav: true
 display_categories: [data & cs, physics, talk, fun]
 horizontal: false
