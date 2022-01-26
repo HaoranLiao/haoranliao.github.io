@@ -4,7 +4,7 @@ title: Quantum Adversarial Attack
 description: Adversarial robustness of quantum machine learning
 img: assets/img/transmon.jpg
 importance: 1
-category: presentation
+category: talk
 ---
 
 I gave a talk at the <a href="https://meetings.aps.org/Meeting/MAR21/Session/S32.13">2021 American Physical Society (APS) March Meeting</a> on our paper *Robust in Practice: Adversarial Attacks on Quantum Machine Learning*. 
