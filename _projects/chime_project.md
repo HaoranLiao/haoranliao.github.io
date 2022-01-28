@@ -20,7 +20,7 @@ Below are the slides of my talk, aimed at general audience, on the FRB and CHIME
 <br>
 <br>
 <br>
-Below are my poster and research report.
+Below are my poster presentation and research report.
 <iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="750" allow="autoplay"></iframe>
 <iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="990" allow="autoplay"></iframe>
 
