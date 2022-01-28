@@ -14,4 +14,4 @@ We were invited for a talk on our paper *Machine Learning for Continuous Quantum
 <br>
 <br>
 Below is our poster presentation for the <a href="https://www.quantummachinelearning.org/qtml2021.html">Quantum Techniques in Machine Learning (QTML) 2021</a> conference.
-<iframe src="https://drive.google.com/file/d/1d7T4fNuolyf8yqJ5OBO7GX5UBPw4OH_u/preview" width="640" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1d7T4fNuolyf8yqJ5OBO7GX5UBPw4OH_u/preview" width="770" height="440" allow="autoplay"></iframe>
