@@ -2,7 +2,7 @@
 layout: page
 title: Positive Energy
 description: A guide through Witten's proof of the positive energy theorem 
-img: assets/img/milky.jpeg
+img: assets/img/milky2.jpeg
 importance: 3
 category: physics
 ---
