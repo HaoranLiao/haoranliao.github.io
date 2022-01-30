@@ -21,5 +21,5 @@ McGill: <br>
 (awarded Tomlinson Engagement Award for Mentoring)<br>
 
 ---
-<br>
+
 Academic Service - Reviewed for Journal: Scientific Report, Advanced Quantum Technologies
