@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ML for Quantum Error Correction
-description: Machine learning for continous QEC on transmons
+title: Machine Learning for continuous QEC
+description: RNN-based protocol for continous QEC on transmons
 img: assets/img/transmon.jpg
 importance: 1
 category: talk
