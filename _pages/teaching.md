@@ -18,4 +18,8 @@ UC Berkeley: <br>
 McGill: <br>
 - <a href="https://www.mcgill.ca/study/2021-2022/courses/math-235">MATH 235</a> Abstract Algebra I <br>
 - <a href="https://www.mcgill.ca/study/2021-2022/courses/math-315">MATH 315</a> Ordinary Differential Equations<br>
-(awarded Tomlinson Engagement Award for Mentoring)
+(awarded Tomlinson Engagement Award for Mentoring)<br>
+
+---
+<br>
+Academic Service - Reviewed for Journal: Scientific Report, Advanced Quantum Technologies
