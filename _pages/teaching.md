@@ -19,7 +19,7 @@ McGill: <br>
 - <a href="https://www.mcgill.ca/study/2021-2022/courses/math-235">MATH 235</a> Abstract Algebra I (2016) <br> 
 - <a href="https://www.mcgill.ca/study/2021-2022/courses/math-315">MATH 315</a> Ordinary Differential Equations (2017)<br>
 (awarded Tomlinson Engagement Award for Mentoring)<br>
-- <a href="http://peertutors.sus.mcgill.ca/">Peer Tutor</a> for Mechanics and Calculus (2015)<br>
+- <a href="http://peertutors.sus.mcgill.ca/">Tutor</a> for Mechanics and Calculus (2015)<br>
 <br>
 
 ---
