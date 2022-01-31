@@ -4,7 +4,6 @@ title: about
 permalink: /
 subtitle: <a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
-<!-- <p><sub>[Safari may not display images]</sub></p> -->
 
 profile:
   align: right
@@ -12,7 +11,7 @@ profile:
   address: >
     <p><small>409 Birge Hall,</small></p>
     <p><small>Berkeley, CA 94720</small></p>
-    
+    <p><sub>[Safari may not display images]</sub></p>
     <p> </p>
 
 news: false  # includes a list of news items
