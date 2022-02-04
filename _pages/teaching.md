@@ -24,6 +24,6 @@ McGill: <br>
 
 ---
 
-<h5>Academic Service:</h5> <br>
+<h4>Academic Service:</h4> <br>
 - Reviewed for Journal: <br>
 Scientific Report, Advanced Quantum Technologies
