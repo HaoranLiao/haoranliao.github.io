@@ -24,7 +24,7 @@ Quantum computing does not use digital logic and transistors. It operates under 
 
 In my free time, I enjoy hiking, traveling, and playing the piano. I practise <a href="https://www.facebook.com/calarchery">archery</a> at Cal. I also like taking photographs, and here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>. 
 
-<br>
+<!-- <br> -->
 
 <h4>Education</h4>
 🎓 Ph.D. in Physics (2018&ndash;2023) (Expected 06/2023) <br>
