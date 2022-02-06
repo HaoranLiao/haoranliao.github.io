@@ -22,7 +22,7 @@ I'm a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/i
 
 Quantum computing doesn't use transistors and digital logic. It operates under quantum mechanics and uses logic based on quantum state evolution and manipulation, which offers huge speedups in solving certain problems. Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics. My projects, papers, and talks can be found through the navigation bar.
 
-In my free time, I enjoy hiking, traveling, and playing the piano. I practice <a href="https://www.facebook.com/calarchery">archery</a> at Cal. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>. 
+In my free time, I enjoy hiking, traveling, playing the piano, and practicing <a href="https://www.facebook.com/calarchery">archery</a>. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>. 
 
 <!-- <br> -->
 
