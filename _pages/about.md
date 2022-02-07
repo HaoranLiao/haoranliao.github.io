@@ -10,7 +10,7 @@ profile:
   image: my_pic.jpg
   address: >
     <p><small>409 Birge / 12 Gilman Hall,</small></p>
-    <p><small>Berkeley, CA 94720</small></p>
+    <p><small>UC Berkeley, CA 94720</small></p>
     <p> </p>
 
 news: false  # includes a list of news items
