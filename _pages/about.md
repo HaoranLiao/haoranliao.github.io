@@ -9,8 +9,8 @@ profile:
   align: right
   image: my_pic.jpg
   address: >
-    <p><small>409 Birge / 12 Gilman Hall,</small></p>
-    <p><small>Berkeley, CA 94720</small></p>
+    <div style="text-align: right"><p><small>409 Birge Hall,</small></p></div>
+    <div style="text-align: right"><p><small>Berkeley, CA 94720</small></p></div>
     <p> </p>
 
 news: false  # includes a list of news items
