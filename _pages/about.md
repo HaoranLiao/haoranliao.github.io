@@ -26,7 +26,8 @@ In my free time, I enjoy hiking, traveling, playing the piano, and practicing <a
 
 
 <!-- <br> -->
-
+ 
+ 
 <h4>Education</h4>
 🎓 Ph.D. in Physics (2018&ndash;2023) (Expected 08/2023) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Berkeley
