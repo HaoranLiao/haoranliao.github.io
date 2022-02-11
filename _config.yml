@@ -234,7 +234,6 @@ imagemagick:
   enabled: true
   widths:
     - 480
-    - 600
     - 800
     - 1400
   input_directories:
