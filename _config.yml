@@ -205,7 +205,7 @@ scholar:
   last_name: Liao #Einstein
   first_name: [Haoran, H.] #[Albert, A.]
 
-  style: mla
+  style: apa
   locale: en
 
   source: /_bibliography/
