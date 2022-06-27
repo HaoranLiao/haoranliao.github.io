@@ -25,5 +25,5 @@ McGill: <br>
 ---
 
 Academic Service: <br>
-- Reviewed for Journal: <br>
+- Reviewed for Journals: <br>
 Scientific Report, International Journal of Theoretical Physics, Advanced Quantum Technologies
