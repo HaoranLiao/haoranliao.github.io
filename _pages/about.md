@@ -30,7 +30,7 @@ I research quantum machine learning, tensor networks, quantum error correction, 
  
  
 <h4>Education</h4>
-🎓 Ph.D. in Physics (2018&ndash;2023) (Expected 08/2023) <br>
+🎓 Ph.D. in Physics (2018&ndash;2023) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of California, Berkeley
 
 🎓 B.Sc. in Honours Mathematics and Physics (2014&ndash;2018) <br>
