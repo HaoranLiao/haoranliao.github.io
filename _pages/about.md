@@ -26,7 +26,7 @@ I research quantum machine learning, tensor networks, quantum error correction, 
 <!---In my free time, I enjoy hiking, traveling, playing the piano, and practicing <a href="https://www.facebook.com/calarchery">archery</a>. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>. -->
 
 
-<!-- <br> -->
+<br>
  
  
 <h4>Education</h4>
