@@ -25,6 +25,6 @@ McGill: <br>
 ---
 
 Academic Service: <br>
-- Reviewed for Journals [<a href="https://publons.com/wos-op/researcher/5336495/haoran-liao/peer-review/">Publons</a>]: <br>
+- Reviewed for Journals [<a href="https://www.webofscience.com/wos/author/record/32106605">Publons</a>]: <br>
 Scientific Reports, International Journal of Theoretical Physics, Advanced Quantum Technologies<br>
 
