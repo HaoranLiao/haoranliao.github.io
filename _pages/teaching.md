@@ -26,5 +26,5 @@ McGill: <br>
 
 Academic Service: <br>
 - Reviewed for Journals [<a href="https://www.webofscience.com/wos/author/record/32106605">Publons</a>]: <br>
-Scientific Reports, International Journal of Theoretical Physics, Advanced Quantum Technologies<br>
+Advanced Quantum Technologies<br>
 
