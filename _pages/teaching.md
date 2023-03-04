@@ -16,8 +16,8 @@ UC Berkeley: <br>
 - <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys7b.html">PHYS 7B</a> Physics for Scientists and Engineers, 2018<br>
 
 McGill: <br>
-- <a href="https://www.mcgill.ca/study/2021-2022/courses/math-235">MATH 235</a> Abstract Algebra I, 2016<br> 
-- <a href="https://www.mcgill.ca/study/2021-2022/courses/math-315">MATH 315</a> Ordinary Differential Equations, 2017<br>
+- <a href="https://www.mcgill.ca/study/2016-2017/courses/math-235">MATH 235</a> Abstract Algebra I, 2016<br> 
+- <a href="https://www.mcgill.ca/study/2016-2017/courses/math-315">MATH 315</a> Ordinary Differential Equations, 2017<br>
 (awarded Tomlinson Engagement Award for Mentoring)<br>
 - <a href="https://susmcgill.ca/peer-tutoring">Tutor</a> for Mechanics and Calculus, 2015<br>
 <br>
