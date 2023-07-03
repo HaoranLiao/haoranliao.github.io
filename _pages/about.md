@@ -25,7 +25,7 @@ I research tensor networks, quantum machine learning, quantum error correction, 
 
 I was a research intern at IBM Quantum for six months in 2023, where I researched quantum error mitigation/suppression, and benchmarking/noise characterization under <a href='https://www.zlatko-minev.com/'>Dr. Zlatko Minev</a>, had a lot of fun running experiments on cloud quantum computers and contributed to the quantum software development.
 
-In my free time, I enjoy hiking, and playing the piano. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
+In my free time, I enjoy hiking and playing the piano. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
 
 
 <br>
