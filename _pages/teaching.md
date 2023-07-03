@@ -26,5 +26,5 @@ McGill: <br>
 
 Academic Service: <br>
 - Reviewed for Journals [<a href="https://www.webofscience.com/wos/author/record/32106605">Publons/WOS</a>]: <br>
-New Journal of Physics, Advanced Quantum Technologies<br>
+New Journal of Physics, Advanced Quantum Technologies, Proceedings of the Royal Society A, IEEE Transactions<br>
 
