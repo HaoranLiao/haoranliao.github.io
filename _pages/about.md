@@ -23,7 +23,7 @@ I'm a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/i
 
 I research tensor networks, quantum machine learning, quantum error correction, and superconducting qubits. Here's my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>. I'm co-supervised by <a href="http://qnl.berkeley.edu/team-view/team/">Irfan Siddiqi</a>. Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics. My projects, papers, and talks can be accessed through the navigation bar.
 
-I was a research intern at IBM Quantum for six months in 2023 working with <a href='https://www.zlatko-minev.com/'>Zlatko Minev</a> and many other amazing physicists, where I researched quantum error mitigation/suppression as well as benchmarking/noise characterization.
+I was a research intern at IBM Quantum for six months in 2023 working with <a href='https://www.zlatko-minev.com/'>Zlatko Minev</a> and other amazing physicists, where I researched quantum error mitigation/suppression as well as benchmarking/noise characterization.
 
 In my free time, I enjoy hiking and playing the piano. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
 
