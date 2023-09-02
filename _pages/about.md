@@ -25,7 +25,7 @@ I research (variational) quantum algorithms, tensor networks, and quantum error 
 
 I recently completed a 6-month research internship at IBM Quantum, under the supervision of <a href='https://www.zlatko-minev.com/'>Zlatko Minev</a>, where I researched quantum error mitigation/suppression as well as benchmarking/noise characterization.
 
-In my free time, I enjoy hiking and playing the piano. I also like photography -- here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
+In my free time, I enjoy hiking and playing the piano. I also like photography---here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
 
 
 <br>
