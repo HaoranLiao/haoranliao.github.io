@@ -3,7 +3,7 @@ layout: page
 title: ML for Quantum Error Correction
 description: RNN-based protocol for continous QEC on transmons
 img: assets/img/transmon.jpg
-importance: 1
+importance: 2
 category: talk
 ---
 
