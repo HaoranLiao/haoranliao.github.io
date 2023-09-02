@@ -12,9 +12,9 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 UC Berkeley: <br>
 - <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys288.html">PHYS 288</a> Bayesian and ML for Physics, 2023<br>
-- <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys112.html">PHYS 112</a> Statistical Mechanics, 2019<br>
-- <a href="https://sps.berkeley.edu/wiki/index.php?title=Physics_5B">PHYS 5B</a> Electromagnetism, Waves, and Optics, 2019<br>
-- <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys7b.html">PHYS 7B</a> Physics for Scientists and Engineers, 2018<br>
+- <a href="https://classes.berkeley.edu/content/2019-fall-physics-112-001-lec-001">PHYS 112</a> Statistical Mechanics, 2019<br>
+- <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys5b.html">PHYS 5B</a> Electromagnetism, Waves, and Optics, 2019<br>
+- <a href="https://classes.berkeley.edu/content/2018-fall-physics-7b-001-lec-001">PHYS 7B</a> Physics for Scientists and Engineers, 2018<br>
 
 McGill: <br>
 - <a href="https://www.mcgill.ca/study/2016-2017/courses/math-235">MATH 235</a> Abstract Algebra I, 2016<br> 
