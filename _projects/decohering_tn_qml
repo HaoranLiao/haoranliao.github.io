@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Decohere Tensor Network QML
-description: Transform QNNs to Bayesian networks
+title: Decohering Tensor Network QML
+description: Transforming QNNs to classical Bayesian networks
 img: assets/img/transmon.jpg
 importance: 1
 category: talk
