@@ -1,0 +1,16 @@
+---
+layout: page
+title: Decohere Tensor Network QML
+description: Transform QNNs to Bayesian networks
+img: assets/img/transmon.jpg
+importance: 1
+category: talk
+---
+
+We were invited for a talk on our paper *Decohering Tensor Network Quantum Machine Learning Model* at the <a href="https://granadaseminar.com/">17th Granada Seminar</a>. You may learn more about it in our slides below. Welcome to check us out at the <a href="https://meetings.aps.org/Meeting/MAR22/Session/T40.13">2024 American Physical Society (APS) March Meeting</a>.
+
+<iframe src="https://drive.google.com/file/d/1Jk7HOUNi5zmT6q6TTZ2XVrB3VZ8OSQyS/preview" width="770" height="880" allow="autoplay"></iframe>
+<br>
+<br>
+<br>
+The source code for this project can be found at this <a href="https://github.com/HaoranLiao/dephased_ttn_mera">Github repository</a>
