@@ -17,4 +17,4 @@ Below is our poster presentation for the <a href="https://www.quantummachinelear
 <iframe src="https://drive.google.com/file/d/1d7T4fNuolyf8yqJ5OBO7GX5UBPw4OH_u/preview" width="770" height="470" allow="autoplay"></iframe>
 
 <br>
-Source code for this project can be found at this <a href="https://colab.research.google.com/drive/1NSwz4Qy3SlfE-fptz59-hj3880QJ7DVj?usp=sharing">Google Colab notebook</a>
+The source code for this project can be found at this <a href="https://colab.research.google.com/drive/1NSwz4Qy3SlfE-fptz59-hj3880QJ7DVj?usp=sharing">Google Colab notebook</a>
