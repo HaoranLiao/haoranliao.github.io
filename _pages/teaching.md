@@ -11,6 +11,7 @@ nav: true
 Organize your courses by years, topics, or universities, however you like! -->
 
 UC Berkeley: <br>
+- <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys288.html">PHYS 288</a> Bayesian and ML for Physics, 2023<br>
 - <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys112.html">PHYS 112</a> Statistical Mechanics, 2019<br>
 - <a href="https://sps.berkeley.edu/wiki/index.php?title=Physics_5B">PHYS 5B</a> Electromagnetism, Waves, and Optics, 2019<br>
 - <a href="https://axs.berkeley.edu/cocclasses/coursedes/phys7b.html">PHYS 7B</a> Physics for Scientists and Engineers, 2018<br>
