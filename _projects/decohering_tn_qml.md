@@ -11,5 +11,4 @@ We were invited to talk about our paper <a href="https://link.springer.com/epdf/
 <br>
 <iframe src="https://drive.google.com/file/d/1-pPFqqp73LkWdxx78mfdg6QmlqDHDvCJ/preview" width="770" height="880" allow="autoplay"></iframe>
 <br>
-<br>
-The source code for this project can be found at this <a href="https://github.com/HaoranLiao/dephased_ttn_mera">Github repository</a>
+Source code for this project can be found at this <a href="https://github.com/HaoranLiao/dephased_ttn_mera">Github repository</a>
