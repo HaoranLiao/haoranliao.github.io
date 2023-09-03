@@ -3,7 +3,7 @@ layout: page
 title: Learn Reward Functions
 description: Random Expert Distillation for reinforcement learning
 img: assets/img/data2.jpeg
-importance: 2
+importance: 3
 category: data & cs
 ---
 
