@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19 Forecast
-description: US weekly COVID-19 forecast with engineered features
+description: DATA 200 graduate project <br> US weekly COVID-19 forecast with engineered features
 img: assets/img/data2.jpeg
 importance: 2
 category: data & cs
