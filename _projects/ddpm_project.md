@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Variational generative models
+title: Generative models
 description: Digesting Denoising Diffusion Probabilistic Models (DDPMs)
 img: assets/img/data2.jpeg
 importance: 1
