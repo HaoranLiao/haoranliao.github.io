@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Generative models
-description: CS 282 final project <br> Digesting Denoising Diffusion Probabilistic Models (DDPMs)
+description: CS 282 final project <br> Digesting denoising diffusion probabilistic models (DDPMs)
 img: assets/img/data2.jpeg
 importance: 1
 category: data & cs
