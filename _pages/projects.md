@@ -2,7 +2,7 @@
 layout: page
 title: Slides
 permalink: /projects/
-description: A summary (with talk slides, videos, and codes) of my publications and projects.
+description: A summary (with talk slides, videos, and codes) of my publications and projects
 nav: true
 display_categories: [talk, data & cs, physics, fun]
 horizontal: false
