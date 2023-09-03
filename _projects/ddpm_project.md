@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Diffusion Models (DDPM)
-description: Digesting Denoising Diffusion Probabilistic Models
+title: Diffusion Models
+description: Digesting Denoising Diffusion Probabilistic Models (DDPMs)
 img: assets/img/data2.jpeg
 importance: 1
 category: data & cs
