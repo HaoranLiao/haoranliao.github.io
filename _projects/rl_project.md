@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learn Reward Functions
-description: Random Expert Distillation for reinforcement learning
+description: CS 285 final project <br> Random Expert Distillation for reinforcement learning
 img: assets/img/data2.jpeg
 importance: 3
 category: data & cs
