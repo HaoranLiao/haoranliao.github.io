@@ -26,6 +26,6 @@ McGill: <br>
 ---
 
 Academic Service: <br>
-- Reviewed for Journals [<a href="https://www.webofscience.com/wos/author/record/32106605">Publons/WOS</a>]: <br>
+- Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>]: <br>
 Quantum Science and Technology, New Journal of Physics, Advanced Quantum Technologies<br>
 
