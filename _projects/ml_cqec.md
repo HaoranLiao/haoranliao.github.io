@@ -9,6 +9,7 @@ category: talk
 
 We were invited to talk about our paper <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac66f9/pdf">*Machine Learning for Continuous Quantum Error Correction on Superconducting Qubits*</a> at the biweekly colloquium of <a href="https://quantumsystemsaccelerator.org/">Quantum Systems Accelerator</a> in January 2022. Also check us out at the <a href="https://meetings.aps.org/Meeting/MAR22/Session/T40.13">2022 American Physical Society (APS) March Meeting</a>.
 <br>
+<br>
 Learn about how we leverage Bayesian inference and machine learning for continuous-in-time, ancilla-free quantum error corrections below. 
 
 <iframe src="https://drive.google.com/file/d/1oXeCnGx6doLSxZ4yDbyyoTsYafs9-zzK/preview" width="770" height="880" allow="autoplay"></iframe>
