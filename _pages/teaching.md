@@ -18,7 +18,7 @@ UC Berkeley: <br>
 
 McGill: <br>
 - <a href="https://www.mcgill.ca/study/2016-2017/courses/math-315">MATH 315</a> Differential Equations, 2017<br>
-(awarded Tomlinson Engagement Award for Mentoring)<br>
+(Awarded Tomlinson Engagement Award for Mentoring)<br>
 - <a href="https://www.mcgill.ca/study/2016-2017/courses/math-235">MATH 235</a> Abstract Algebra, 2016<br> 
 - <a href="https://susmcgill.ca/peer-tutoring">Tutor</a> for Mechanics and Calculus, 2015<br>
 <br>
