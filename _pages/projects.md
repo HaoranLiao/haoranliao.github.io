@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Slides
-permalink: /projects/
+permalink: /slides/
 description: A summary (with talk slides, videos, and codes) of my publications and projects
 nav: true
 display_categories: [talk, data & cs, physics, fun]
