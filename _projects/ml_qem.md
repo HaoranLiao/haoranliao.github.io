@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Efficient Scalable QEM
+title: Efficient Quantum Error Mitigation
 description: machine learning for practical quantum error mitigation
 img: assets/img/transmon.jpg
 importance: 0
