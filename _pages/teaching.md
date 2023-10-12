@@ -31,6 +31,7 @@ Presentations: <br>
 - 09/23, IEEE Quantum Week (Contributed Talk) <br>
 - 03/22, APS March Meeting (Contributed Talk) <br>
 - 01/22, Quantum System Accelerator (Invited Colloquim) <br>
+- 10/21, QTML Quantum Techniques in Machine Learning (Poster) <br>
 - 03/21, APS March Meeting (Contributed Talk) <br>
 <br>
 
