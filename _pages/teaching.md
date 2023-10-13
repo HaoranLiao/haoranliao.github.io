@@ -26,13 +26,13 @@ McGill: <br>
 ---
 
 Presentations: <br>
-- 03/24&emsp;APS March Meeting [Invited & Contributed Talks] <br>
-- 10/23&emsp;IBM Quantum Qiskit Seminar [Invited Seminar] <br>
-- 09/23&emsp;IEEE Quantum Week [Contributed Talk] <br>
-- 03/22&emsp;APS March Meeting [Contributed Talk] <br>
-- 01/22&emsp;Quantum System Accelerator [Invited Colloquim] <br>
-- 10/21&emsp;Quantum Techniques in Machine Learning (QTML) [Poster] <br>
-- 03/21&emsp;APS March Meeting [Contributed Talk] <br>
+- 03/24,&ensp;APS March Meeting [Invited & Contributed Talks] <br>
+- 10/23,&ensp;IBM Quantum Qiskit Seminar [Invited Seminar] <br>
+- 09/23,&ensp;IEEE Quantum Week [Contributed Talk] <br>
+- 03/22,&ensp;APS March Meeting [Contributed Talk] <br>
+- 01/22,&ensp;Quantum System Accelerator [Invited Colloquim] <br>
+- 10/21,&ensp;Quantum Techniques in Machine Learning (QTML) [Poster] <br>
+- 03/21,&ensp;APS March Meeting [Contributed Talk] <br>
 <br>
 
 ---
