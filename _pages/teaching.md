@@ -13,8 +13,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 UC Berkeley: <br>
 - <a href="https://classes.berkeley.edu/content/2023-fall-physics-288-001-lec-001">PHYS 288</a>&nbsp;Bayesian, and ML for Physics, 2023<br>
 - <a href="https://classes.berkeley.edu/content/2019-fall-physics-112-001-lec-001">PHYS 112</a>&nbsp;Statistical Mechanics, 2019<br>
-- <a href="https://classes.berkeley.edu/content/2019-spring-physics-5b-001-lec-001">PHYS 5B</a>&ensp;Electromagnetism, Waves, and Optics, 2019<br>
-- <a href="https://classes.berkeley.edu/content/2018-fall-physics-7b-001-lec-001">PHYS 7B</a>&ensp;Physics for Scientists and Engineers, 2018<br>
+- <a href="https://classes.berkeley.edu/content/2019-spring-physics-5b-001-lec-001">PHYS 5B</a>&emsp;Electromagnetism, Waves, and Optics, 2019<br>
+- <a href="https://classes.berkeley.edu/content/2018-fall-physics-7b-001-lec-001">PHYS 7B</a>&emsp;Physics for Scientists and Engineers, 2018<br>
 
 McGill: <br>
 - <a href="https://www.mcgill.ca/study/2016-2017/courses/math-315">MATH 315</a>&nbsp;Differential Equations, 2017<br>
