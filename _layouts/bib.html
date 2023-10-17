@@ -48,7 +48,7 @@
             {%- else -%}
               {%- unless forloop.last -%}
                 {% if author_is_self %}
-                  <em>{{author.first}}&nbsp;{{author.last}}</em>,&nbsp;
+                  <em>{{author.first}}&nbsp;{{author.last}}</em>
                 {%- else -%}
                   {% if coauthor_url -%}
                     <a href="{{coauthor_url}}">{{author.first}}&nbsp;{{author.last}}</a>,&nbsp;
@@ -58,18 +58,20 @@
                 {%- endif -%}
               {%- else -%}
                 {% if author_is_self -%}
-                  and <em>{{author.first}}&nbsp;{{author.last}}</em>
+                  and <em>{{author.first}}&nbsp;{{author.last}}</em>,&nbsp;
                 {% else -%}
                   {%- if coauthor_url -%}
-                    and <a href="{{coauthor_url}}">{{author.first}}&nbsp;{{author.last}}</a>
+                    and <a href="{{coauthor_url}}">{{author.first}}&nbsp;{{author.last}}</a>,&nbsp;
                   {% else -%}
-                    and {{author.first}}&nbsp;{{author.last}}
+                    and {{author.first}}&nbsp;{{author.last}},&nbsp;
                   {%- endif -%}
                 {%- endif -%}
               {%- endunless -%}
             {%- endif -%}
           {%- endfor %}
           </div>
+
+              
           <!-- Journal/Book title and date -->
           {% if entry.type == "article" -%}
             {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
