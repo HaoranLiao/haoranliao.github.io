@@ -203,7 +203,7 @@ jekyll-archives:
 scholar:
 
   last_name: Liao #Einstein
-  first_name: [Haoran, H., H.*, Haoran*, *Haoran, *H.] #[Albert, A.]
+  first_name: [Haoran, H., H.*, Haoran*] #[Albert, A.]
 
   style: apa
   locale: en
