@@ -28,10 +28,10 @@ McGill: <br>
 Presentations: <br>
 - 03/24,&ensp;APS March Meeting<br>
 - 12/23,&ensp;NeuIPS AI4Science Workshop<br>
-- 10/23,&ensp;Qiskit Seminar<br>
+- 10/23,&ensp;Qiskit Seminar (Invited)<br>
 - 09/23,&ensp;IEEE Quantum Week<br>
 - 03/22,&ensp;APS March Meeting<br>
-- 01/22,&ensp;Quantum System Accelerator (QSA)<br>
+- 01/22,&ensp;Quantum System Accelerator (QSA) (Invited)<br>
 - 10/21,&ensp;Quantum Techniques in Machine Learning (QTML)<br>
 - 03/21,&ensp;APS March Meeting<br>
 <br>
