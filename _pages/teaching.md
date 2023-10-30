@@ -27,6 +27,7 @@ McGill: <br>
 
 Presentations: <br>
 - 03/24,&ensp;APS March Meeting<br>
+- 12/23,&ensp;NeuIPS AI4Science Workshop<br>
 - 10/23,&ensp;Qiskit Seminar<br>
 - 09/23,&ensp;IEEE Quantum Week<br>
 - 03/22,&ensp;APS March Meeting<br>
