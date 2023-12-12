@@ -41,5 +41,5 @@ Presentations: <br>
 
 Academic Service: <br>
 - Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>]: <br>
-Quantum Science and Technology, New Journal of Physics, Journal of Physics A: Mathematical and Theoretical<br>
+Quantum Science and Technology, New Journal of Physics, Journal of Physics A: Mathematical and Theoretical, Machine Learning: Science and Technology<br>
 
