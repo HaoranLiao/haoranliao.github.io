@@ -25,7 +25,7 @@ McGill: <br>
 
 ---
 
-Presentations: <br>
+Talks & Seminars: <br>
 - 03/24,&ensp;APS March Meeting<br>
 - 12/23,&ensp;NeuIPS AI4Science Workshop<br>
 - 11/23,&ensp;Unitary Fund Seminar [Invited]<br>
@@ -40,9 +40,9 @@ Presentations: <br>
 ---
 
 Academic Service: <br>
-Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>]: <br>
-- Quantum Science and Technology<br>
-- New Journal of Physics<br>
-- Journal of Physics A: Mathematical and Theoretical<br>
-- Machine Learning: Science and Technology
+- Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>]: <br>
+  - Quantum Science and Technology<br>
+  - New Journal of Physics<br>
+  - Journal of Physics A: Mathematical and Theoretical<br>
+  - Machine Learning: Science and Technology
 
