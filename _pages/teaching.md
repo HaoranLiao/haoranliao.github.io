@@ -10,15 +10,17 @@ nav: true
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-### Education
+#### Education
 
 * University of California, Berkeley, California &ensp; 2018&ndash;2023
-<br> Ph.D. in Physics &emsp;&emsp; Supervisor: K. Birgitta Whaley
+<br> Ph.D. in Physics &emsp; Supervisor: K. Birgitta Whaley
 * McGill University, Montr&#233;al, Qu&#233;bec &emsp; 2014&ndash;2018
-<br> B.Sc. in Honours Mathematics and Physics &emsp;&emsp; Graduated with: First Class Honors, Dean’s Honors List
+<br> B.Sc. in Honours Mathematics and Physics &emsp; Graduated with: First Class Honors, Dean’s Honors List
 <br> Scholarships and Awards: (1/1) E.P. Aikman Prize in Physics, (1/2) Prince of Wales Scholarship in Science
 
-### Experience
+---
+
+#### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 01/2024&ndash;Present &emsp;&emsp; Los Angeles, United States
 * Research Intern, IBM Quantum
@@ -29,12 +31,26 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ---
 
-### Publications
+#### Publications
 * <a href="https://scholar.google.com/citations?user=P35A9JoAAAAJ&hl=en">Google Scholar</a>
+
 
 ---
 
-### Teaching Experience
+#### Talks & Seminars
+- 03/24,&ensp;APS March Meeting<br>
+- 12/23,&ensp;NeuIPS AI4Science Workshop<br>
+- 11/23,&ensp;Unitary Fund Seminar [Invited]<br>
+- 10/23,&ensp;Qiskit Seminar [Invited]<br>
+- 09/23,&ensp;IEEE Quantum Week<br>
+- 03/22,&ensp;APS March Meeting<br>
+- 01/22,&ensp;Quantum System Accelerator (QSA) Seminar [Invited]<br>
+- 10/21,&ensp;Quantum Techniques in Machine Learning (QTML)<br>
+- 03/21,&ensp;APS March Meeting<br>
+
+---
+
+#### Teaching Experience
 
 [//]: # (I led dicussion sessions for the following courses)
 
@@ -52,20 +68,8 @@ McGill: <br>
 
 ---
 
-### Talks & Seminars
-- 03/24,&ensp;APS March Meeting<br>
-- 12/23,&ensp;NeuIPS AI4Science Workshop<br>
-- 11/23,&ensp;Unitary Fund Seminar [Invited]<br>
-- 10/23,&ensp;Qiskit Seminar [Invited]<br>
-- 09/23,&ensp;IEEE Quantum Week<br>
-- 03/22,&ensp;APS March Meeting<br>
-- 01/22,&ensp;Quantum System Accelerator (QSA) Seminar [Invited]<br>
-- 10/21,&ensp;Quantum Techniques in Machine Learning (QTML)<br>
-- 03/21,&ensp;APS March Meeting<br>
 
----
-
-### Academic Service
+#### Academic Service
 - Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>, <a href="https://www.webofscience.com/wos/author/record/32106605">WoS</a>] : <br>
   - Quantum Science and Technology<br>
   - New Journal of Physics<br>
@@ -75,20 +79,21 @@ McGill: <br>
 
 ---
 
-### Patents
+#### Patents
 - 09/24, Machine learning-accelerated quantum error mitigation
 
 ---
 
-### Skills
+#### Skills
 - Quantum Information and Computation
   <br> Quantum error mitigation/suppression/correction/characterization, Quantum machine learning, Superconducting qubit, Tensor network, Open-system dynamics, Quantum algorithm, Quantum measurement and control
 - Machine leanring [<a href="https://github.com/HaoranLiao">Github Repositories</a>]
   <br> Traditional/deep ML, Bayesian inference, Deep reinforcement learning, GNN, etc.;  Distributed GPU training, Ray
   Tune, Cloud platform (GCP)
- 
 
-### Courses
+---
+
+#### Courses
 * <a href="https://www.linkedin.com/in/haoran-liao/details/courses">List of advanced courses</a>
 
 
