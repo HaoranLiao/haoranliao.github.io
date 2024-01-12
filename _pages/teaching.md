@@ -75,7 +75,7 @@ McGill: <br>
   - New Journal of Physics<br>
   - Journal of Physics A: Mathematical and Theoretical<br>
   - Machine Learning: Science and Technology
-- IOP Trusted Reviewer Status, 12/2023
+- IOP Trusted Reviewer Status
 
 ---
 
