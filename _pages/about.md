@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a research scientist at Q-CTRL, working on understanding what impacts quantum computers can make in the real world, and how it can help as a scientific tool. 
+I'm a research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>, trying to understand what impacts quantum computers can make in the real world, and how it can help as a scientific tool. 
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
 I obtained my Physics Ph.D. from UC Berkeley, under the supervision of K. Birgitta Whaley. I researched quantum error mitigation/suppression/correction/characterization, quantum machine learning, tensor networks, open-system dynamics, etc. Here's my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>. I also did a six-month research internship at IBM Quantum, under the supervision of Zlatko K. Minev. Welcome to check out my talks, slides, and code repos on my papers and projects through the navigation bar on top.
