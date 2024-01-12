@@ -13,20 +13,37 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Education
 
 * University of California, Berkeley, California &ensp; 2018&ndash;2023
-<br> Ph.D. in Physics &emsp; Supervisor: K. Birgitta Whaley
-* McGill University, Montr&#233;al, Qu&#233;bec &emsp; 2014&ndash;2018
-<br> B.Sc. in Honours Mathematics and Physics &emsp; Graduated with: First Class Honors, Dean’s Honors List
-<br> Awards: (1/1) E.P. Aikman Prize in Physics, (1/2) Prince of Wales Scholarship in Science
-
+<br> Ph.D. in Physics 
+&emsp; Supervisor: K. Birgitta Whaley
+* McGill University, Montr&#233;al, Qu&#233;bec &ensp; 2014&ndash;2018
+<br> B.Sc. in Honours Mathematics and Physics
 ---
 
 #### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 01/2024&ndash;Present &emsp; Los Angeles, United States
+  * Application team
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &emsp; New York, United States
+  * Led the research effort in machine learning-based quantum error mitigation, designing and running experiments. Demonstrated that our method outperforms ZNE
+on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
+such as VQE, and for tomography-like experiments.
+  * Performed experiments and analysis for Pauli channel estimation using
+  entanglement-assisted benchmarking. Developed e.g., the codebase to perform randomized compiling (single-Clifford twirling) for ECR gates, and staggered dynamical decoupling. Researched and enabled
+  methods to suppress crosstalks, e.g., crosstalk absorption
+  on Heisenberg model simulations.
+
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &emsp; Berkeley, United States
+  * Analytically and numerically studied the decoherence effect in tensor network discriminative QML models and
+their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigating decoherence effect in model
+performance in simulations with distributed GPU training.
+  * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout
+  measurements. The protocol decodes the errors and applies active corrections. Benchmarked against
+  our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing.
+  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on the concentration
+  of measure phenomenon. Argued against the previous belief of vulnerability in generic quantum classifiers and proved their
+  practical robustness decreases mildly polynomially in the number of qubits.
 
 
 ---
