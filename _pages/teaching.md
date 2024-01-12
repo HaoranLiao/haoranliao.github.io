@@ -41,7 +41,7 @@ such as VQE, and for tomography-like experiments.
   * Analytically and numerically studied decoherence in tensor network discriminative QML models and
 their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training.
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout
-  measurements. The protocol decodes the errors and applies active corrections. Benchmarked against
+  measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against
   our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing.
   * Derived the robustness of general quantum classifiers against worst-case input perturbations based on the concentration
   of measure phenomenon. Argued against the previous belief of vulnerability in generic quantum classifiers and proved their
