@@ -16,7 +16,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 <br> Ph.D. in Physics &emsp; Supervisor: K. Birgitta Whaley
 * McGill University, Montr&#233;al, Qu&#233;bec &emsp; 2014&ndash;2018
 <br> B.Sc. in Honours Mathematics and Physics &emsp; Graduated with: First Class Honors, Dean’s Honors List
-<br> Scholarships and Awards: (1/1) E.P. Aikman Prize in Physics, (1/2) Prince of Wales Scholarship in Science
+<br> Awards: (1/1) E.P. Aikman Prize in Physics, (1/2) Prince of Wales Scholarship in Science
 
 ---
 
@@ -80,7 +80,7 @@ McGill: <br>
 ---
 
 #### Patents
-- 09/24, Machine learning-accelerated quantum error mitigation
+- 09/23, Machine learning-accelerated quantum error mitigation
 
 ---
 
