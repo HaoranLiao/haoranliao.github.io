@@ -31,8 +31,10 @@ on small-scale circuits, and scales to classically intractable circuits with low
 such as VQE, and for tomography-like experiments.
   * Performed experiments and analysis for Pauli channel estimation using
   entanglement-assisted benchmarking. Developed e.g., the codebase to perform randomized compiling (single-Clifford twirling) for ECR gates, and staggered dynamical decoupling. Researched and enabled
-  methods to suppress crosstalks, e.g., crosstalk absorption
-  on Heisenberg model simulations.
+  methods to suppress crosstalks. 
+
+[//]: # (  e.g., crosstalk absorption)
+[//]: # (  on Heisenberg model simulations.)
 
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &emsp; Berkeley, United States
