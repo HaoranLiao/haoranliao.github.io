@@ -12,7 +12,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Education
 
-* University of California, Berkeley, California
+* University of California, Berkeley
 <br> Ph.D. in Physics 
 <br> Dissertation: Interplay between quantum computation and machine learning
 * McGill University, Montr&#233;al, Qu&#233;bec
