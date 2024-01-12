@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: CV
 description: I led dicussion sessions for the following courses
 nav: true
 ---
