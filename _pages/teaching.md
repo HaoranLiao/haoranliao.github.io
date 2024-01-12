@@ -22,11 +22,11 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Experience
 * Senior Research Scientist, Q-CTRL
-<br> 01/2024&ndash;Present &emsp;&emsp; Los Angeles, United States
+<br> 01/2024&ndash;Present &emsp; Los Angeles, United States
 * Research Intern, IBM Quantum
-<br> 02/2023&ndash;08/2023 &emsp;&emsp; New York, United States
+<br> 02/2023&ndash;08/2023 &emsp; New York, United States
 * Ph.D. Student Researcher, UC Berkeley
-<br> 09/2018&ndash;12/2023 &emsp;&emsp; Berkeley, United States
+<br> 09/2018&ndash;12/2023 &emsp; Berkeley, United States
 
 
 ---
