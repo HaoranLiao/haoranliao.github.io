@@ -12,10 +12,10 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Education
 
-* University of California, Berkeley, California &ensp; 2018&ndash;2023
+* University of California, Berkeley, California
 <br> Ph.D. in Physics 
 &emsp; Supervisor: K. Birgitta Whaley
-* McGill University, Montr&#233;al, Qu&#233;bec &ensp; 2014&ndash;2018
+* McGill University, Montr&#233;al, Qu&#233;bec
 <br> B.Sc. in Honours Mathematics and Physics
 
 ---
