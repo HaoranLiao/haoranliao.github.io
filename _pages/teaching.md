@@ -17,6 +17,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 &emsp; Supervisor: K. Birgitta Whaley
 * McGill University, Montr&#233;al, Qu&#233;bec &ensp; 2014&ndash;2018
 <br> B.Sc. in Honours Mathematics and Physics
+
 ---
 
 #### Experience
@@ -35,9 +36,8 @@ such as VQE, and for tomography-like experiments.
 
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &emsp; Berkeley, United States
-  * Analytically and numerically studied the decoherence effect in tensor network discriminative QML models and
-their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigating decoherence effect in model
-performance in simulations with distributed GPU training.
+  * Analytically and numerically studied decoherence in tensor network discriminative QML models and
+their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training.
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout
   measurements. The protocol decodes the errors and applies active corrections. Benchmarked against
   our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing.
