@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>
+subtitle: Quantum computing researcher
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
@@ -18,13 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Physics Ph.D. Candidate in <a href="http://www.cchem.berkeley.edu/kbwgrp/index.php/People/BirgittaWhaley">K. Birgitta Whaley</a>'s group studying quantum information and computation. Welcome to check out my talks, slides, and code repos on my papers and projects through the navigation bar on top.
-<!---Quantum computing doesn't use transistors and digital logic. It operates under quantum mechanics and uses logic based on quantum state evolution and manipulation, which offers huge speedups in solving certain problems. -->
+I'm a research scientist at Q-CTRL, working on understanding what impacts quantum computers can make in the real world, and how it can help as a scientific tool. 
 
-I research (variational) quantum algorithms, tensor networks, and quantum error mitigation/suppression/characterization/correction. Here's my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>. I'm co-supervised by <a href="http://qnl.berkeley.edu/team-view/team/">Irfan Siddiqi</a>. Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics. 
+[//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
+I obtained my Physics Ph.D. from UC Berkeley, under the supervision of K. Birgitta Whaley. I researched quantum error mitigation/suppression/correction/characterization, quantum machine learning, tensor networks, open-system dynamics, etc. Here's my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>. I also did a six-month research internship at IBM Quantum, under the supervision of Zlatko K. Minev. Welcome to check out my talks, slides, and code repos on my papers and projects through the navigation bar on top.
 
-I recently completed a six-month research internship at IBM Quantum, under the supervision of <a href='https://www.zlatko-minev.com/'>Zlatko Minev</a>, where I researched quantum error mitigation/suppression as well as benchmarking/noise characterization.
-
+Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics.
 In my free time, I enjoy hiking and playing the piano. I also like photography---here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
 
 
