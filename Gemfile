@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
-    gem 'uri', '0.10.0'
+    gem 'uri', '0.10.1'
     gem 'rspec'
     gem 'jekyll'
     gem 'jekyll-archives'
