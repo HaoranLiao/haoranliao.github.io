@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://q-ctrl.com/">Scientist @ Q-CTRL</a>
+subtitle: <a href="https://q-ctrl.com/">Research Scientist @ Q-CTRL</a>
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
