@@ -104,7 +104,7 @@ McGill: <br>
 ---
 
 #### Skills
-- Quantum Information and Computation:
+- Quantum information:
   <br> Quantum error mitigation/suppression/correction/characterization, Quantum machine learning, Superconducting qubit, Tensor network, Open-system dynamics, Quantum algorithm, Quantum measurement and control
 
 - Machine leanring [<a href="https://github.com/HaoranLiao">Github repositories</a>]:
