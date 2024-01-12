@@ -44,7 +44,7 @@ their connections to classical Bayesian networks. Showed that adding noisy ancil
   measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against
   our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing.
   * Derived the robustness of general quantum classifiers against worst-case input perturbations based on the concentration
-  of measure phenomenon. Argued against the previous belief of vulnerability in generic quantum classifiers and proved their
+  of measure phenomenon of SU(N) equipped with the Haar measure. Argued against the previous belief of vulnerability in generic quantum classifiers and proved their
   practical robustness decreases mildly polynomially in the number of qubits.
 
 
