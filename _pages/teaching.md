@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 * University of California, Berkeley, California
 <br> Ph.D. in Physics 
-<br> Disssertation: Interplay between quantum computation and machine learning
+<br> Dissertation: Interplay between quantum computation and machine learning
 * McGill University, Montr&#233;al, Qu&#233;bec
 <br> B.Sc. in Honours Mathematics and Physics
 
