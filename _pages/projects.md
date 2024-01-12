@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slides
+title: Projects
 permalink: /projects/
 description: Short descriptions with slides on my papers
 nav: true
