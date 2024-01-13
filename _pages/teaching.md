@@ -113,6 +113,6 @@ McGill: <br>
 ---
 
 #### Courses
-* <a href="https://www.linkedin.com/in/haoran-liao/details/courses">List of advanced courses</a>
+* <a href="https://www.linkedin.com/in/haoran-liao/details/courses">List of advanced courses taken</a>
 
 
