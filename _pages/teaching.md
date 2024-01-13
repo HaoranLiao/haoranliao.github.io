@@ -20,10 +20,10 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Experience
 * Senior Research Scientist, Q-CTRL
-<br> 01/2024&ndash;Present &emsp; Los Angeles, United States
+<br> 01/2024&ndash;Present &nbsp;Los Angeles, United States
   * Application team
 * Research Intern, IBM Quantum
-<br> 02/2023&ndash;08/2023 &emsp; New York, United States
+<br> 02/2023&ndash;08/2023 &nbsp;New York, United States
   * Led the research effort in machine learning-based quantum error mitigation, designing and running experiments. Demonstrated that our method outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
 such as VQE, and for tomography-like experiments.
@@ -35,7 +35,7 @@ such as VQE, and for tomography-like experiments.
 [//]: # (  on Heisenberg model simulations.)
 
 * Ph.D. Student Researcher, UC Berkeley
-<br> 09/2018&ndash;12/2023 &emsp; Berkeley, United States
+<br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
   * Analytically and numerically studied decoherence in tensor network discriminative QML models and
 their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training.
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout
@@ -50,6 +50,23 @@ their connections to classical Bayesian networks. Showed that adding noisy ancil
 
 #### Publications
 * <a href="https://scholar.google.com/citations?user=P35A9JoAAAAJ&hl=en">Google Scholar</a>
+
+
+---
+
+#### Academic Service
+- Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>, <a href="https://www.webofscience.com/wos/author/record/32106605">WoS</a>] : <br>
+  - Quantum Science and Technology<br>
+  - New Journal of Physics<br>
+  - Journal of Physics A: Mathematical and Theoretical<br>
+  - Machine Learning: Science and Technology
+- <a href="https://accreditations.ioppublishing.org/5f99587a-af12-4bf2-a2ee-7ed54eb065ed#gs.2zkzzo">IOP Trusted Reviewer status</a>
+  <br> In recognition of exceptionally high level of peer review competency
+
+---
+
+#### Patents
+- 09/23, Machine learning-accelerated quantum error mitigation
 
 
 ---
@@ -83,22 +100,6 @@ McGill: <br>
 - <a href="https://www.mcgill.ca/study/2016-2017/courses/math-235">MATH 235</a>&nbsp;Abstract Algebra, 2016<br> 
 <!-- - <a href="https://susmcgill.ca/peer-tutoring">Tutor</a> for Mechanics and Calculus, 2015<br> -->
 
----
-
-
-#### Academic Service
-- Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>, <a href="https://www.webofscience.com/wos/author/record/32106605">WoS</a>] : <br>
-  - Quantum Science and Technology<br>
-  - New Journal of Physics<br>
-  - Journal of Physics A: Mathematical and Theoretical<br>
-  - Machine Learning: Science and Technology
-- <a href="https://accreditations.ioppublishing.org/5f99587a-af12-4bf2-a2ee-7ed54eb065ed#gs.2zkzzo">IOP Trusted Reviewer status</a>
-  <br> In recognition of exceptionally high level of peer review competency
-
----
-
-#### Patents
-- 09/23, Machine learning-accelerated quantum error mitigation
 
 ---
 
