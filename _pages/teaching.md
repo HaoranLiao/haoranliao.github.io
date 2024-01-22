@@ -42,8 +42,8 @@ their connections to classical Bayesian networks. Showed that adding noisy ancil
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout
   measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against
   our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (NJP 2022)
-  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on the concentration
-  of measure phenomenon in SU(N) equipped with the Haar measure. Argued against the previous belief of vulnerability in generic quantum classifiers and proved that their
+  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration
+  of measure phenomenon in certain probabilistically-sampled metric spaces. Argued against previous belief of extreme vulnerability in generic quantum classifiers and proved that their
   practical robustness decreases only mildly polynomially in the number of qubits. (PRA 2021)
 
 
