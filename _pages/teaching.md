@@ -43,7 +43,7 @@ their connections to classical Bayesian networks. Showed that adding noisy ancil
   measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against
   our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (NJP 2022)
   * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration
-  of measure phenomenon in certain probabilistically-sampled metric spaces. Scrutinized and argued against the belief of extreme vulnerability in generic quantum classifiers and proved that their
+  of measure phenomenon in certain probabilistically-sampled metric spaces. Scrutinized and argued against the belief of extreme vulnerability and proved that their
   practical robustness decreases only mildly polynomially in the number of qubits. (PRA 2021)
 
 
