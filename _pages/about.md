@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://q-ctrl.com/">Research Scientist @ Q-CTRL</a>
+subtitle: Quantum Computing Research
+<!--<a href="https://q-ctrl.com/">Research Scientist @ Q-CTRL</a> -->
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
@@ -19,7 +20,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>, trying to understand what impacts quantum computers can make in the real world, and how it can help physicists. 
-My research interest lies in generative QML, QEC, quantum algorithms for PDEs, and TN approximation of many-body dynamics.
+
+<!-- My research interest lies in generative QML, QEC, quantum algorithms for PDEs, and TN approximation of many-body dynamics.-->
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
 I researched quantum error mitigation/suppression/correction, error characterization, quantum machine learning, tensor network, open-system dynamics, superconducting qubit, etc. Here's my research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>. I obtained my Ph.D. in Physics from UC Berkeley, supervised by K. Birgitta Whaley. I also interned at IBM Quantum, supervised by Zlatko K. Minev. Welcome to check out my talks, slides, and code repos on my papers and projects, as well as my CV, through the navigation bar.
