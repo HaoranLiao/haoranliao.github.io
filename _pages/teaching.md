@@ -25,9 +25,9 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Application team
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
-  * Led the research effort in machine learning-based quantum error mitigation, designing and running experiments. Demonstrated that our method outperforms ZNE
+  * Led the research effort in machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
-such as VQE, and for tomography-like experiments.
+such as VQE, and for tomography-like experiments. (arXiv, NeuIPS Workshop 2023)
   * Performed experiments and analysis for Pauli channel estimation using
   entanglement-assisted benchmarking. Developed e.g., the codebase to perform randomized compiling (single-Clifford twirling) for ECR gates, and staggered dynamical decoupling. Researched and enabled
   methods to suppress crosstalks. 
@@ -38,13 +38,13 @@ such as VQE, and for tomography-like experiments.
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
   * Analytically and numerically studied decoherence in tensor network discriminative QML models and
-their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training.
+their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training. (QMI 2022)
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout
   measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against
-  our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing.
+  our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (NJP 2022)
   * Derived the robustness of general quantum classifiers against worst-case input perturbations based on the concentration
   of measure phenomenon in SU(N) equipped with the Haar measure. Argued against the previous belief of vulnerability in generic quantum classifiers and proved that their
-  practical robustness decreases only mildly polynomially in the number of qubits.
+  practical robustness decreases only mildly polynomially in the number of qubits. (PRA 2021)
 
 
 ---
