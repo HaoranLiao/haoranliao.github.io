@@ -27,7 +27,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
   * Led the research effort in machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
-such as VQE, and for tomography-like experiments. (arXiv, NeuIPS Workshop 2023)
+such as VQE, and for tomography-like experiments. (arXiv, NeuIPS AI4Science 2023)
   * Performed experiments and analysis for Pauli channel estimation using
   entanglement-assisted benchmarking. Developed e.g., the codebase to perform randomized compiling (single-Clifford twirling) for ECR gates, and staggered dynamical decoupling. Researched and enabled
   methods to suppress crosstalks. 
