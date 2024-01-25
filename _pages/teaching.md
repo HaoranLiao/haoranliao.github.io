@@ -22,7 +22,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 01/2024&ndash;Present &nbsp;Los Angeles, United States
-  * Application team
+  * Applications and Algorithms
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
   * Led the research effort in machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
