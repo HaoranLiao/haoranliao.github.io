@@ -67,8 +67,8 @@ their connections to classical Bayesian networks. Showed that adding noisy ancil
 ---
 
 #### Patents
-- 09/23, Machine learning-accelerated quantum error mitigation
-
+- 01/24, Suppression of correlated noise in quantum computers (IBM Quantum)
+- 09/23, Machine learning-accelerated quantum error mitigation (IBM Quantum)
 
 ---
 
