@@ -52,6 +52,7 @@ such as VQE, and for tomography-like experiments. (arXiv, NeuIPS AI4Science 2023
 
 #### Academic Service
 - Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>, <a href="https://www.webofscience.com/wos/author/record/32106605">WoS</a>] : <br>
+  - npj Quantum Information<br>
   - Quantum Science and Technology<br>
   - New Journal of Physics<br>
   - Journal of Physics A: Mathematical and Theoretical<br>
