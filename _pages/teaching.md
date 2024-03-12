@@ -29,7 +29,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
 such as VQE, and for tomography-like experiments. (arXiv, NeuIPS AI4Science 2023)
   * Pauli channel estimation using entanglement-assisted benchmarking. Studied error characterization methods. Developed e.g., the codebase to perform randomized compiling (single-Clifford twirling) for ECR gates.
-  * Researched extensively and enabled methods to suppress crosstalks by staggered dynamical decoupling and context-aware compilation (error compensation). (arXiv)
+  * Researched extensively and enabled methods to suppress crosstalks by staggered dynamical decoupling and context-aware compilation (absorbing ZZ crosstalk into Hamiltonian in many-body physics simulations). (arXiv)
 
 [//]: # (  e.g., crosstalk absorption)
 [//]: # (  on Heisenberg model simulations.)
