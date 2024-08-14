@@ -28,7 +28,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Led the research effort in machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
 such as VQE, and for tomography-like experiments. (arXiv, NeuIPS AI4Science 2023)
-  * Pauli channel estimation using entanglement-assisted benchmarking, involving cycle benchmarking and randomized compiling (Pauli, and single-Clifford twirling). (arXiv)
+  * Pauli channel estimation using entanglement-assisted benchmarking, involving cycle benchmarking with single-Clifford twirling. (arXiv)
   * Researched extensively and enabled methods to suppress crosstalks by staggered dynamical decoupling and context-aware compilation absorbing ZZ crosstalk into the Hamiltonian in many-body physics simulations. (ISCA 2024)
 
 [//]: # (  e.g., crosstalk absorption)
