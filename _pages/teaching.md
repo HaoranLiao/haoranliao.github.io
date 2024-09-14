@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 * Ph.D. Physics, University of California, Berkeley
 <br> Supervisor: K. Birgitta Whaley
-<br> Dissertation: Interplay between quantum computation and machine learning
+<!--<br> Dissertation: Interplay between quantum computation and machine learning-->
 * B.Sc. Honours Mathematics and Physics, McGill University <!--, Montr&#233;al, Qu&#233;bec-->
 
 ---
