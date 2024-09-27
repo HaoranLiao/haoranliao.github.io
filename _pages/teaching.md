@@ -22,7 +22,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 01/2024&ndash;Present &nbsp;Los Angeles, United States
-  * Applications and Algorithms
+  * Devised a novel protocol for long-range CNOT gates that significantly outperforms the existing dynamic-circuit protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites. Leveraged limited error detection schemes to enable 75Q GHZ state preparation, the largest reported to date. (arXiv)
+  * Efforts towards quantum error correction.
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
   * Developed machine learning-based quantum error mitigation, which outperforms ZNE
@@ -104,7 +105,7 @@ McGill: <br>
 
 #### Skills
 - Quantum information:
-  <br> Quantum error mitigation/suppression, Quantum error correction, Quantum error characterization, Quantum machine learning, Superconducting qubit, Open-system dynamics, Tensor network, Quantum measurement and control, Quantum algorithm
+  <br> Quantum error mitigation/suppression, Superconducting device physics, Quantum error correction, Quantum error characterization, Open-system dynamics, Quantum machine learning, Tensor network, Quantum measurement and control, Quantum algorithm
 
 - Machine leanring [<a href="https://github.com/HaoranLiao">Github</a>]:
   <br>Traditional/deep ML, Bayesian inference, Deep reinforcement learning, etc. 
