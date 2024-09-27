@@ -25,7 +25,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Applications and Algorithms
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
-  * Researched machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
+  * Developed machine learning-based quantum error mitigation, which outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead. Showed its superiority for variational algorithms
 such as VQE, and for tomography-like experiments. (Nat. Mach. Intell. 2024, NeuIPS AI4Science 2023)
   * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv, Submitted to Nat. Phys.)
