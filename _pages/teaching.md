@@ -39,7 +39,7 @@ such as VQE, and for tomography-like experiments. (Nat. Mach. Intell. 2024, NeuI
   * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (Quantum Mach. Intell. 2023)
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (New J. Phys. 2022)
   * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon in certain probabilistically-sampled metric spaces. Scrutinized and argued against the belief of extreme vulnerability and proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits. (Phys. Rev. A 2021)
-  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying certain datasets based on their estimated mutual information. (Mach. Learn.: Sci. Technol. 2021)
+  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with the same mutual information scaling. (Mach. Learn.: Sci. Technol. 2021)
 
 
 ---
