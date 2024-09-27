@@ -28,7 +28,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Researched machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
 such as VQE, and for tomography-like experiments. (Nat. Mach. Intell. 2024, NeuIPS AI4Science 2023)
-  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, which exponentially reduces sampling complexity compared to cycle benchmarking. (Submitted to Nat. Phys.)
+  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (Submitted to Nat. Phys.)
   * Researched extensively and enabled methods to suppress crosstalks by staggered dynamical decoupling and context-aware compilation absorbing crosstalk errors into the Hamiltonian in many-body physics simulations. (Proceedings of ISCA 2024)
 
 [//]: # (  e.g., crosstalk absorption)
@@ -38,7 +38,7 @@ such as VQE, and for tomography-like experiments. (Nat. Mach. Intell. 2024, NeuI
 <br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
   * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (Quantum Mach. Intell. 2023)
   * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (New J. Phys. 2022)
-  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon in certain probabilistically-sampled metric spaces. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (Phys. Rev. A 2021)
+  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (Phys. Rev. A 2021)
   * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (Mach. Learn.: Sci. Technol. 2021)
 
 
