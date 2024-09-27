@@ -26,9 +26,9 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Efforts towards quantum error correction.
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
+  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv, Submitted to Nat. Phys.)
   * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on
 classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (Nat. Mach. Intell. 2024, NeuIPS AI4Science 2023)
-  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv, Submitted to Nat. Phys.)
   * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (Proceedings of ISCA 2024)
 
 [//]: # (  e.g., crosstalk absorption)
