@@ -36,9 +36,9 @@ classically intractable circuits. Showed its superiority for variational algorit
 
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
-  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (Quantum Mach. Intell. 2023)
-  * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (New J. Phys. 2022)
   * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (Phys. Rev. A 2021)
+  * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (New J. Phys. 2022)
+  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (Quantum Mach. Intell. 2023)
   * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (Mach. Learn.: Sci. Technol. 2021)
 
 
