@@ -27,19 +27,19 @@ Organize your courses by years, topics, or universities, however you like! -->
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
   * Led the research effort in machine learning-based quantum error mitigation. Demonstrated that our method outperforms ZNE
 on small-scale circuits, and scales to classically intractable circuits with lower overhead in a 100-qubit experiment. Showed its superiority for variational algorithms
-such as VQE, and for tomography-like experiments. (arXiv, NeuIPS AI4Science 2023)
+such as VQE, and for tomography-like experiments. (Nat. Mach. Intell. 2024, NeuIPS AI4Science 2023)
   * Pauli channel estimation using entanglement-assisted benchmarking, involving cycle benchmarking with single-Clifford twirling. (arXiv)
-  * Researched extensively and enabled methods to suppress crosstalks by staggered dynamical decoupling and context-aware compilation absorbing ZZ crosstalk into the Hamiltonian in many-body physics simulations. (ISCA 2024)
+  * Researched extensively and enabled methods to suppress crosstalks by staggered dynamical decoupling and context-aware compilation absorbing ZZ crosstalk into the Hamiltonian in many-body physics simulations. (Proceedings of ISCA 2024)
 
 [//]: # (  e.g., crosstalk absorption)
 [//]: # (  on Heisenberg model simulations.)
 
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
-  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training. (QMI 2023)
-  * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (NJP 2022)
-  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon in certain probabilistically-sampled metric spaces. Scrutinized and argued against the belief of extreme vulnerability and proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits. (PRA 2021)
-  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying certain ML datasets based on their estimated mutual information. (MLST 2021)
+  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence effect in simulations with distributed GPU training. (Quantum Mach. Intell. 2023)
+  * Developed a novel protocol based on the RNN/LSTM for continuous quantum error correction with dispersive readout measurements on superconducting qubits. The protocol decodes the errors and applies active corrections. Benchmarked against our Bayesian inference model (similar to hidden Markov models) on tasks including adiabatic quantum computing. (New J. Phys. 2022)
+  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon in certain probabilistically-sampled metric spaces. Scrutinized and argued against the belief of extreme vulnerability and proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits. (Phys. Rev. A 2021)
+  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying certain ML datasets based on their estimated mutual information. (Mach. Learn.: Sci. Technol. 2021)
 
 
 ---
