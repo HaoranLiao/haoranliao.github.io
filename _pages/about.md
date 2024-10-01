@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <!--I'm a research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>, trying to understand what impacts quantum computers can make in the real world, and how they can help physicists.-->
 
-I have a broad interest in quantum information and computation. Currently, I'm particularly interested in superconducting device physics, quantum error correction, and quantum algorithms. If there's any interest for collaborations, feel free to drop me a line.
+I'm a physicist with a broad interest in quantum information and computation. Currently, I'm particularly interested in superconducting device physics, quantum error correction, and quantum algorithms. If there's any interest for collaborations, feel free to drop me a line.
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
 I've researched quantum error mitigation/suppression/correction, quantum error characterization, open-system dynamics, superconducting qubit control, quantum machine learning, tensor network, etc. I obtained my Ph.D. from UC Berkeley, supervised by K. Birgitta Whaley. I was also an intern at IBM Quantum, supervised by Zlatko K. Minev. I'm currently a senior research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>. Welcome to check out my talks, slides, and code repos on my papers and projects through the navigation bar. [Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>]
