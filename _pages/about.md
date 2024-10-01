@@ -26,7 +26,7 @@ I'm a physicist with a broad interest in quantum information and computation. Cu
 I've researched quantum error mitigation/suppression/correction, superconducting qubit control, quantum error characterization, open-system dynamics, quantum machine learning, etc. I graduated with my Ph.D. from UC Berkeley, supervised by K. Birgitta Whaley. I was also an intern at IBM Quantum, supervised by Zlatko K. Minev. I'm currently a senior research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>. Welcome to check out my talks, slides, and code repos on my papers through the navigation bar. [Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>]
 
 Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics.
-In my free time, I enjoy hiking and playing the piano. I also like photography---here's my <a href="https://lhr.myportfolio.com/">portfolio</a>.
+In my free time, I like traveling and playing the piano. I also like photography---here's my <a href="https://lhr.myportfolio.com/">portfolio</a>.
 
 <!--and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.-->
 
