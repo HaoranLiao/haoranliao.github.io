@@ -20,13 +20,15 @@ social: true  # includes social icons at the bottom of the page
 
 <!--I'm a research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>, trying to understand what impacts quantum computers can make in the real world, and how they can help physicists.-->
 
-I have a broad interest in quantum information and computation. Currently, I'm particularly interested in superconducting device physics, quantum error correction, and quantum algorithms. I'm open to collaborations. Please contact me through the email below if you're interested.
+I have a broad interest in quantum information and computation. Currently, I'm particularly interested in superconducting device physics, quantum error correction, and quantum algorithms. If there's any interest for collaborations, feel free to drop me a line.
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
-In the past, I've researched quantum error mitigation/suppression/correction, error characterization, quantum machine learning, tensor network, open-system dynamics, superconducting qubit, etc. I obtained my Ph.D. in Physics from UC Berkeley, supervised by K. Birgitta Whaley. I also interned at IBM Quantum, supervised by Zlatko K. Minev. I'm currently a senior research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>. Welcome to check out my talks, slides, and code repos on my papers and projects through the navigation bar. [Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>]
+I've researched quantum error mitigation/suppression/correction, quantum error characterization, open-system dynamics, superconducting qubit control, quantum machine learning, tensor network, etc. I obtained my Ph.D. from UC Berkeley, supervised by K. Birgitta Whaley. I was also an intern at IBM Quantum, supervised by Zlatko K. Minev. I'm currently a senior research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>. Welcome to check out my talks, slides, and code repos on my papers and projects through the navigation bar. [Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>]
 
 Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics.
-In my free time, I enjoy hiking and playing the piano. I also like photography---here are my <a href="https://lhr.myportfolio.com/">portfolio</a> and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.
+In my free time, I enjoy hiking and playing the piano. I also like photography---here are my <a href="https://lhr.myportfolio.com/">portfolio</a>.
+
+<!--and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.-->
 
 <br>
 <h4>Education</h4>
