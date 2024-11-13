@@ -22,7 +22,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 02/2024&ndash;Present &nbsp;Los Angeles, United States
-  * Devised a novel protocol for long-range CNOT gates that significantly outperforms the existing dynamic-circuit protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites. Leveraged limited error detection schemes to enable 75Q GHZ state preparation, the largest reported to date. (Almost there)
+  * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable 75Q GHZ state preparation, the largest reported to date. (Almost there)
   * Efforts towards quantum error correction.
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
@@ -64,6 +64,7 @@ classically intractable circuits. Showed its superiority for variational algorit
 ---
 
 #### Talks & Seminars
+- 11/24,&ensp;NSF Workshop on Real-Time Control<br>
 - 03/24,&ensp;APS March Meeting<br>
 - 12/23,&ensp;NeuIPS AI4Science Workshop<br>
 - 11/23,&ensp;Unitary Fund Seminar [Invited]<br>
