@@ -3,7 +3,7 @@ layout: page
 title:  Long-range Entanglement
 description: CNOT Teleportation and GHZ state preparation
 img: assets/img/milky2.jpeg
-importance: 1
+importance: 0
 category: physics
 ---
 
