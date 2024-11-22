@@ -3,7 +3,7 @@ layout: page
 title: ML for Quantum Error Mitigation
 description: Efficient and scalable QEM using machine learning
 img: assets/img/transmon.jpg
-importance: 0
+importance: 1
 category: talk
 ---
 
