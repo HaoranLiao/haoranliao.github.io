@@ -3,7 +3,7 @@ layout: page
 title: ML for Quantum Error Correction
 description: RNN-based protocol for ancilla-free QEC on transmons
 img: assets/img/transmon.jpg
-importance: 2
+importance: 3
 category: talk
 ---
 
