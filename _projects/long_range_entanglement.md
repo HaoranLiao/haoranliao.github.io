@@ -1,12 +1,20 @@
-Fast radio bursts (FRBs) are rapid and bright radio transients that appear to come from extragalactic origins. The nature of FRBs is still a mystery. The leading theories suggest that FRBs come from incredibly volatile cosmic events, such as material being ejected from supermassive black holes, the explosions of superluminous supernovae, or rotating young magnetars.
+---
+layout: page
+title:  Long-range Entanglement
+description: CNOT Teleportation and GHZ state preparation
+img: assets/img/milky2.jpeg
+importance: 1
+category: physics
+---
 
-I worked as an undergraduate researcher in the team led by Prof. Victoria Kaspi at McGill Space Institute (MSI) to search for FRBs using the CHIME telescope. The CHIME (Canadian Hydrogen Intensity Mapping Experiment) telescope, whose primary goal is to map the red-shifted 21 cm hydrogen in order to study Baryon Acoustic Oscillations at redshifts of 0.8-2.5, has a huge field of view that also makes it an ideal instrument to search for FRBs. The FRB search using CHIME has been in operation since 2018.
-
-Below are the slides of my talk, aimed at the general audience, on the FRB and CHIME for the MSI and Trottier Fellows Research Showcase in July 2017. My work contributes to our paper The CHIME Fast Radio Burst Project: System Overview.
+Long-range entangling gates are highly desirable for solid-state devices. Improving the ability to achieve high-fidelity long-range CNOT gates is highly desirable in solid-state devices, where physical circuit architectures constrain effective device connectivity. These gates are particularly important for the large-scale implementation of algorithms like the quantum Fourier transform and fermionic simulations, and facilitate the use of non-local QEC codes such as quantum low-density parity-check (qLDPC) codes. Previous work by Bäumer et al. demonstrated teleportation of a CNOT gate using a measurement-based protocol across up to 100 lattice sites, achieving the highest fidelities for such tasks on superconducting processors at the time. We present a novel protocol
+for long-range CNOT gates that achieves superior performance across up to at least 40 lattice sites by relying primarily on unitary operations and incorporating error detection. 
 
 <iframe src="https://drive.google.com/file/d/1VbUdTCKCbIOoMJA2oU0kqhYx4siZzHJG/preview" width="770" height="880" allow="autoplay"></iframe>
 
 
+Below are my poster at the 2024 NSF workshop on quantum operating system and real-time control. <iframe src="https://drive.google.com/file/d/1lBs7h7nKjNclLASeEztCUR1rcG1hwsc9/preview" width="770" height="750" allow="autoplay"></iframe>
 
-
-Below are my poster presentation and research report. <iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="750" allow="autoplay"></iframe> <iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="990" allow="autoplay"></iframe>
+<!--
+<iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="750" allow="autoplay"></iframe> <iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="990" allow="autoplay"></iframe>
+-->
