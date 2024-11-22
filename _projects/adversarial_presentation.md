@@ -3,7 +3,7 @@ layout: page
 title: Quantum Adversarial Attack
 description: Adversarial robustness of quantum machine learning
 img: assets/img/transmon.jpg
-importance: 3
+importance: 4
 category: talk
 ---
 
