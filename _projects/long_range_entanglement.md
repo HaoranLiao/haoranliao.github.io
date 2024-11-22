@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Long-range Entanglement
+title:  Long-range Entanglement Generation
 description: CNOT Teleportation and GHZ state preparation
 img: assets/img/transmon.jpg
 importance: 0
