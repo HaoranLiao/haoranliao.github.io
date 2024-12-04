@@ -100,7 +100,7 @@ McGill: <br>
 - <a href="https://www.mcgill.ca/study/2016-2017/courses/math-235">MATH 235</a>&nbsp;Abstract Algebra, 2016<br> 
 <!-- - <a href="https://susmcgill.ca/peer-tutoring">Tutor</a> for Mechanics and Calculus, 2015<br> -->
 
-
+<!--
 ---
 
 #### Skills
@@ -115,5 +115,5 @@ McGill: <br>
 
 #### Courses
 * <a href="https://www.linkedin.com/in/haoran-liao/details/courses">List of advanced courses taken</a>
-
+-->
 
