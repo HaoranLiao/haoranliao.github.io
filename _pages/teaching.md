@@ -64,6 +64,7 @@ classically intractable circuits. Showed its superiority for variational algorit
 ---
 
 #### Talks & Seminars
+- 03/25,&ensp;APS Global Physics Summit<br>
 - 11/24,&ensp;NSF Workshop on Real-Time Control<br>
 - 03/24,&ensp;APS March Meeting<br>
 - 12/23,&ensp;NeuIPS AI4Science Workshop<br>
@@ -78,7 +79,6 @@ classically intractable circuits. Showed its superiority for variational algorit
 ---
 
 #### Patents
-- 08/24,&ensp;FPGA-based in-situ machine learning for real-time quantum state discrimination (LBNL)
 - 01/24,&ensp;Suppression of correlated noise in quantum computers (IBM Quantum)
 - 09/23,&ensp;Machine learning-accelerated quantum error mitigation (IBM Quantum)
 
