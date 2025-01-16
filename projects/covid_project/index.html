@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://haoranliao.github.io//" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Haoran Liao | Page not found</title>
+    <title>Haoran Liao | COVID-19 Forecast</title>
     <meta name="author" content="Haoran  Liao" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="DATA 200 graduate project <br> US weekly COVID-19 forecast with engineered features" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔲</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://haoranliao.github.io/404.html">
+    <link rel="canonical" href="https://haoranliao.github.io/projects/covid_project/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -102,12 +102,21 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">COVID-19 Forecast</h1>
+            <p class="post-description">DATA 200 graduate project <br> US weekly COVID-19 forecast with engineered features</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://haoranliao.github.io//">here</a>.</p>
+            <p><a href="https://drive.google.com/file/d/1wpWON0dwaVlqmlYPqJD7YxrNC25m9Yyr/view?usp=sharing" target="_blank" rel="noopener noreferrer">Analysis Source Code Notebook (Colab)</a><br></p>
+
+<p>COVID-19 pandemic has created the largest public health crisis in decades. Since the outbreak, there have been tremendous interests in attempting to forecast the confirmed cases and the death tolls, and to predict the course of the pandemic, so as to better inform public health policies. In this project, we make use of a publicly available data repository on U.S. COVID-19 related statistics in the year 2020 and 2021 to build a model that forecasts the death tolls in each state in the next week. We engineered and selected time-lagged features, including how the virus spreads geographically between states using the <a href="https://en.wikipedia.org/wiki/Vector_autoregression" target="_blank" rel="noopener noreferrer">Vector Autoregression</a> model and using the proximity method, and experimented on several models including <a href="https://en.wikipedia.org/wiki/Lasso_(statistics)" target="_blank" rel="noopener noreferrer">LASSO</a>, <a href="https://en.wikipedia.org/wiki/Elastic_net_regularization" target="_blank" rel="noopener noreferrer">Elastic Net</a>, <a href="https://en.wikipedia.org/wiki/Random_forest" target="_blank" rel="noopener noreferrer">Random Forest</a>, and <a href="https://en.wikipedia.org/wiki/Gradient_boosting" target="_blank" rel="noopener noreferrer">Gradient Boosting Tree</a>. In particular, we built a <a href="https://en.wikipedia.org/wiki/Ridge_regression" target="_blank" rel="noopener noreferrer">Ridge Regression</a> model that achieves a 94% cross-validation R squared with informative interpretations on the various features contributing to the forecast. We hope that our model can be used in assisting the prediction of the course of the pandemic.</p>
+
+<p>Below are our presentation slides and report.</p>
+
+<iframe src="https://drive.google.com/file/d/1hRw32r9eAWB699NSg-6j7Gh39EgA-iGD/preview" width="770" height="880" allow="autoplay"></iframe>
+<p><br></p>
+<iframe src="https://drive.google.com/file/d/10zHszJ6d3xaJ_h9k9kwiLxXHiDwRaYQp/preview" width="770" height="1080" allow="autoplay"></iframe>
+
 
           </article>
 

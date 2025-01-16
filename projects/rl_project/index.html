@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://haoranliao.github.io//" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Haoran Liao | Page not found</title>
+    <title>Haoran Liao | Learn Reward Functions</title>
     <meta name="author" content="Haoran  Liao" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="CS 285 final project <br> Random Expert Distillation for reinforcement learning" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +31,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔲</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://haoranliao.github.io/404.html">
+    <link rel="canonical" href="https://haoranliao.github.io/projects/rl_project/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -102,12 +102,17 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">Learn Reward Functions</h1>
+            <p class="post-description">CS 285 final project <br> Random Expert Distillation for reinforcement learning</p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://haoranliao.github.io//">here</a>.</p>
+            <p><a href="https://github.com/HaoranLiao/cs285_project" target="_blank" rel="noopener noreferrer">Source Code</a><br></p>
+
+<p>Since reward functions are difficult to obtain in real-world problems, learning reward functions has gained a lot of interest in the <a href="https://en.wikipedia.org/wiki/Reinforcement_learning" target="_blank" rel="noopener noreferrer">reinforcement learning</a> community. Adversarial optimizations have been employed to learn reward functions but can suffer from instabilities and are hard to implement. In this report, we consider a recently proposed method – random expert distillation (RED) – in attaining reward functions for reinforcement learning. This method estimates whether a given state-action tuple belongs to the support of the expert data using prediction error from a network that is trained to mimic a random mapping for the expert data, and this error value on new state-action tuples can be translated into reward. It has been successfully demonstrated in training policies on various low-dimensional tasks and was shown to perform better in some tasks than using adversarial optimizations. In this paper, we extend the RED technique to high-dimensional input states, through two approaches. One approach is to incorporate <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank" rel="noopener noreferrer">convolutional neural networks</a> in the RED critic and policy, and the other approach is to utilize an <a href="https://en.wikipedia.org/wiki/Autoencoder" target="_blank" rel="noopener noreferrer">autoencoder</a> to compress the raw inputs before applying RED. Our experiments show that the latter approach succeeds in dealing with high-dimensional pixel inputs in the Atari game MsPacman.</p>
+
+<iframe src="https://drive.google.com/file/d/1nO02F8lcQA4NEMtZ3UEbtz4XMrmZsFh8/preview" width="770" height="1080" allow="autoplay"></iframe>
+
 
           </article>
 
