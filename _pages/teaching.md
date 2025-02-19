@@ -22,11 +22,11 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 02/2024&ndash;Present &nbsp;Los Angeles, United States
-  * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable 75-qubit GHZ state preparation. (arXiv)
+  * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable 75-qubit GHZ state preparation. (arXiv, under review in PRX Quantum)
   * Efforts toward quantum error correction.
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
-  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv, Under review in Nat. Phys.)
+  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv)
   * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on
 classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (Nat. Mach. Intell. 2024, NeuIPS AI4Science 2023)
   * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (Proceedings of ISCA 2024)
