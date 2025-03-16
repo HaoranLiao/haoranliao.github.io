@@ -11,7 +11,7 @@ Long-range entangling gates are highly desirable for solid-state devices. Improv
 for long-range CNOT gates that achieves superior performance across up to at least 40 lattice sites by relying primarily on unitary operations and incorporating error detection. 
 <br>
 <br>
-Below are my slides for the APS Global Summit 2025 
+Below are my slides for the APS Global Summit 2025
 <iframe src="https://drive.google.com/file/d/1gpJjRzN2QLDs9lIspvBEaxl2zLAQDmod/preview" width="770" height="880" allow="autoplay"></iframe>
 <br>
 <br>
