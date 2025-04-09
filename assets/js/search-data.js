@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -470,7 +470,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/covid_project/";
             },},{id: "projects-generative-models",
-          title: 'Generative models',
+          title: 'Generative Models',
           description: "CS 282 final project  Digesting denoising diffusion probabilistic models (DDPMs)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ddpm_project/";
