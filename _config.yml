@@ -7,7 +7,6 @@ first_name: Haoran
 middle_name: #
 last_name: Liao
 email: haoranliao2@gmail.com
-contact_note: #
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My academic portofolio.
 footer_text: >
