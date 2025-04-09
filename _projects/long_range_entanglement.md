@@ -16,12 +16,8 @@ Below are my slides for the APS Global Summit 2025
 <br>
 <br>
 <br>
-<br>
-<br>
 More comprehensive slides for the paper 
 <iframe src="https://drive.google.com/file/d/1T-ifkgvNKX4oFjoua88ww-x6VqmlFNkk/preview" width="770" height="880" allow="autoplay"></iframe>
-<br>
-<br>
 <br>
 <br>
 <br>
