@@ -9,5 +9,4 @@ children:
     - title: divider
     - title: slides
       permalink: /slides/
-      
 ---
