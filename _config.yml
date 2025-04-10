@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # blank # the website title (if blank, full name will be used instead)
+title: Haoran Liao # blank # the website title (if blank, full name will be used instead)
 first_name: Haoran
 middle_name: #
 last_name: Liao
@@ -52,7 +52,7 @@ footer_fixed: true
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
