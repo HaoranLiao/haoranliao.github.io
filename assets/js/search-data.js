@@ -515,13 +515,6 @@ ninja.data = [{
         handler: () => {
           window.open("https://orcid.org/0000-0002-6399-006X", "_blank");
         },
-      },//////{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("//feed.xml", "_blank");
-        },
       },{
         id: 'social-work',
         title: 'Work',
