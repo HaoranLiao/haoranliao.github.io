@@ -8,7 +8,7 @@ subtitle: <a href="https://haoranliao.github.io/">Quantum Computing Research</a>
 profile:
   align: right
   image: my_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <div style="text-align: center"><p><small>1335 4th Street,</small></p></div>
     <div style="text-align: center"><p><small>Santa Monica, CA 90401</small></p></div>
