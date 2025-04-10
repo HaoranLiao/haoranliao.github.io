@@ -211,10 +211,10 @@ ninja.data = [
           {%- assign social_id = "social-researchgate" -%}
           {%- assign social_title = "ResearchGate" -%}
           {%- capture social_url %}"https://www.researchgate.net/profile/{{ social[1] }}/"{% endcapture -%}
-        {%- when "rss_icon" -%}
-          {%- assign social_id = "social-rss" -%}
-          {%- assign social_title = "RSS Feed" -%}
-          {%- capture social_url %}"{{ site.baseurl }}/feed.xml"{% endcapture -%}
+        // {%- when "rss_icon" -%}
+        //   {%- assign social_id = "social-rss" -%}
+        //   {%- assign social_title = "RSS Feed" -%}
+        //   {%- capture social_url %}"{{ site.baseurl }}/feed.xml"{% endcapture -%}
         {%- when "scholar_userid" -%}
           {%- assign social_id = "social-scholar" -%}
           {%- assign social_title = "Google Scholar" -%}
