@@ -89,9 +89,6 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  Feel free to drop me a line by the email icon above. 
-
 google_analytics: G-86XGTXBQ34 # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification: google14b999b1ee052679.html # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
@@ -100,6 +97,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+
+contact_note: >
+  Feel free to drop me a line by the email icon above. 
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -409,7 +409,7 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
-enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar: false # enables a horizontal progress bar linked to the vertical scroll position
 enable_video_embedding: false # enables video embedding for bibtex entries. If false, the button opens the video link in a new window.
 
 # -----------------------------------------------------------------------------

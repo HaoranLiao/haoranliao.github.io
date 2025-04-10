@@ -12,7 +12,7 @@ for long-range CNOT gates that achieves superior performance across up to at lea
 <br>
 <br>
 Below are my slides for the APS Global Summit 2025
-<iframe src="https://drive.google.com/file/d/1gpJjRzN2QLDs9lIspvBEaxl2zLAQDmod/preview" width="750" height="850" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1gpJjRzN2QLDs9lIspvBEaxl2zLAQDmod/preview" width="770" height="880" allow="autoplay"></iframe>
 <br>
 <br>
 <br>
