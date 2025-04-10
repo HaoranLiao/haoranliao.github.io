@@ -516,13 +516,6 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-6399-006X", "_blank");
         },
       },{
-        id: 'social-work',
-        title: 'Work',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://lhr.myportfolio.com/", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
