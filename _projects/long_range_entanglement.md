@@ -14,7 +14,7 @@ for long-range CNOT gates that achieves superior performance across up to at lea
 Below are my slides for the APS Global Summit 2025
 <iframe src="https://drive.google.com/file/d/1gpJjRzN2QLDs9lIspvBEaxl2zLAQDmod/preview" width="770" height="880" allow="autoplay" frameborder="0"></iframe>
 <br>
-Our paper also presented the preparation of GHZ states up to 75 qubits, achieved with sparse parity checks for error detection and assited by error suppression. This record has been documented in the <a href="https://mariokrenn.wordpress.com/2021/01/29/reference-list-for-records-in-large-entanglement-generation-number-of-qubits-in-ghz-states/">Largest genuine entanglement: Qubits in GHZ state</a> tracking website. The work is also covered by NewScientist.
+Our paper also presented the preparation of GHZ states up to 75 qubits, achieved with sparse parity checks for error detection and assited by error suppression. This record has been documented in the <a href="https://mariokrenn.wordpress.com/2021/01/29/reference-list-for-records-in-large-entanglement-generation-number-of-qubits-in-ghz-states/">Largest genuine entanglement: Qubits in GHZ state</a> tracking website. Our work is also covered by <a href="https://www.newscientist.com/article/2480310-are-entangled-qubits-following-a-quantum-moores-law/">New Scientist</a> (<a href="https://archive.ph/dsEbC">archived webpage</a>).
 <br>
 <br>
 Below is my poster at the <a href="https://www.youtube.com/live/w7GHPmfCzZs?si=MMaW3E6smH1is4rN">2024 NSF workshop on quantum real-time control</a>. 
