@@ -17,7 +17,7 @@ Below are my slides for the APS Global Summit 2025
 Our paper also presented the preparation of GHZ states up to 75 qubits, achieved with sparse parity checks for error detection and assited by error suppression. This record has been documented in the <a href="https://mariokrenn.wordpress.com/2021/01/29/reference-list-for-records-in-large-entanglement-generation-number-of-qubits-in-ghz-states/">Largest genuine entanglement: Qubits in GHZ state</a> tracking website. Our work is also covered by <a href="https://www.newscientist.com/article/2480310-are-entangled-qubits-following-a-quantum-moores-law/">New Scientist</a> (<a href="https://archive.ph/UTnKL">archived webpage</a>).
 <br>
 <br>
-I would like to ammend [a small correction to our Appendix D](https://docs.google.com/document/d/1bl0N_nS3pTwjV9Y8LEgUwpq40AHjOf6ZPSPXCS_8njc/edit?usp=sharing/), clarifying why the fidelity estimation of an n-qubit GHZ state by sampling its stabilizers drastically underestimates the state fidelity and is unfavored.
+I would like to ammend <a href="https://docs.google.com/document/d/1bl0N_nS3pTwjV9Y8LEgUwpq40AHjOf6ZPSPXCS_8njc/edit?usp=sharing">a small correction to our Appendix D</a>, clarifying why the fidelity estimation of an n-qubit GHZ state by sampling its stabilizers drastically underestimates the state fidelity and is unfavored.
 <br>
 <br>
 Below is my poster at the <a href="https://www.youtube.com/live/w7GHPmfCzZs?si=MMaW3E6smH1is4rN">2024 NSF workshop on quantum real-time control</a>. 
