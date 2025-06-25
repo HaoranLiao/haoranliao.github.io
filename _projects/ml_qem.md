@@ -7,7 +7,7 @@ importance: 1
 category: talk
 ---
 
-This paper investigates the practical utility of machine learning for quantum error mitigation (ML-QEM) which primarily has the advantage of being arguably the most efficient QEM method at runtime---we ask the following questions: <br>
+Published in <a href="https://www.nature.com/articles/s42256-024-00927-2">Nature Machine Intelligence</a>, our paper investigates the practical utility of machine learning for quantum error mitigation (ML-QEM) which primarily has the advantage of being arguably the most efficient QEM method at runtime---we ask the following questions: <br>
 a) How well does it perform under realistic noise? <br>
 b) How efficient it can be even if considering training overhead? <br>
 c) In what applications can it be particularly useful? <br>
