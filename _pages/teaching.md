@@ -23,24 +23,24 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Experience
 * Senior Research Scientist, Q-CTRL
 <br> 02/2024&ndash;Present &nbsp;Los Angeles, United States
-  * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable 75-qubit GHZ state preparation. (PRX Quantum)
+  * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable 75-qubit GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
   * Ongoing research on quantum optimization, quantum error correction, and hamiltonian simulation.
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
-  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv)
+  * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
   * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on
-classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (Nat. Mach. Intell. 2024, NeuIPS AI4Science 2023)
-  * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (Proceedings of ISCA 2024)
+classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (<a href="https://www.nature.com/articles/s42256-024-00927-2">Nat. Mach. Intell. 2024</a>, NeuIPS AI4Science 2023)
+  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (<a href="https://arxiv.org/abs/2408.03376">arXiv 2024</a>)
 
 [//]: # (  e.g., crosstalk absorption)
 [//]: # (  on Heisenberg model simulations.)
 
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
-  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (Phys. Rev. A 2021)
-  * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (New J. Phys. 2022)
-  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (Quantum Mach. Intell. 2023)
-  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (Mach. Learn.: Sci. Technol. 2021)
+  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042427">Phys. Rev. A 2021</a>)
+  * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac66f9/meta">New J. Phys. 2022</a>)
+  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (<a href="https://link.springer.com/article/10.1007/s42484-022-00095-9">Quantum Mach. Intell. 2023</a>)
+  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac44a9/meta">Mach. Learn.: Sci. Technol. 2021</a>)
 
 
 ---
