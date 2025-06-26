@@ -24,7 +24,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 * Senior Research Scientist, Q-CTRL
 <br> 02/2024&ndash;Present &nbsp;Los Angeles, United States
   * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable 75-qubit GHZ state preparation. (PRX Quantum)
-  * Efforts toward hamiltonian simulation and quantum error correction.
+  * Efforts toward hamiltonian simulation, quantum error correction, and quantum optimization.
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;08/2023 &nbsp;New York, United States
   * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (arXiv)
