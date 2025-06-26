@@ -54,11 +54,12 @@ classically intractable circuits. Showed its superiority for variational algorit
 #### Academic Service
 - Reviewed for Journals [<a href="https://orcid.org/0000-0002-6399-006X">ORCID</a>, <a href="https://www.webofscience.com/wos/author/record/32106605">WoS</a>] : <br>
   - npj Quantum Information<br>
+  - Quantum<br>
   - Quantum Science and Technology<br>
   - New Journal of Physics<br>
   - Journal of Physics A: Mathematical and Theoretical<br>
-  - Machine Learning: Science and Technology
-  - Quantum Machine Intelligence
+  - Machine Learning: Science and Technology<br>
+  - Quantum Machine Intelligence<br>
 - <a href="https://accreditations.ioppublishing.org/5f99587a-af12-4bf2-a2ee-7ed54eb065ed#gs.2zkzzo">IOP Trusted Reviewer status</a>
   <br> In recognition of exceptionally high level of peer review competency
 
