@@ -37,8 +37,8 @@ I'm exploring quantum error correction, quantum simulation, optimization, and al
 
 [//]: # ([Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>])
 
-Besides physics, I'm also interested in machine learning, computer science, and their interplays with physics.
-In my free time, I like traveling and playing the piano. I also like photography---here's my <a href="https://lhr.myportfolio.com/">portfolio</a>.
+Besides physics, I'm also interested in computer science and its interplay with physics.
+In my free time I like traveling, and photography---here's my <a href="https://lhr.myportfolio.com/">portfolio</a>.
 
 <!--and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.-->
 
