@@ -58,7 +58,6 @@ classically intractable circuits. Showed its superiority for variational algorit
   - Quantum Science and Technology<br>
   - New Journal of Physics<br>
   - Journal of Physics A: Mathematical and Theoretical<br>
-  - Machine Learning: Science and Technology<br>
   - Quantum Machine Intelligence<br>
 - <a href="https://accreditations.ioppublishing.org/5f99587a-af12-4bf2-a2ee-7ed54eb065ed#gs.2zkzzo">IOP Trusted Reviewer status</a>
   <br> In recognition of exceptionally high level of peer review competency
