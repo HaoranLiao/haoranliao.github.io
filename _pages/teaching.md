@@ -66,6 +66,7 @@ classically intractable circuits. Showed its superiority for variational algorit
 ---
 
 #### Talks & Seminars
+- 09/25,&ensp;IEEE Quantum Week<br>
 - 03/25,&ensp;APS Global Physics Summit<br>
 - 11/24,&ensp;NSF Workshop on Real-Time Control<br>
 - 03/24,&ensp;APS March Meeting<br>
