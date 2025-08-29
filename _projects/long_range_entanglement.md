@@ -21,7 +21,7 @@ I would like to ammend <a href="https://docs.google.com/document/d/1bl0N_nS3pTwj
 <br>
 <br>
 Below is my poster at the <a href="https://www.youtube.com/live/w7GHPmfCzZs?si=MMaW3E6smH1is4rN">2024 NSF workshop on quantum real-time control</a>. 
-<iframe src="https://drive.google.com/file/d/1lBs7h7nKjNclLASeEztCUR1rcG1hwsc9/preview" width="770" height="750" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Xku5_jwUmfoxZ8IaOv4Nbo7i4tKc4-n3/preview" width="770" height="750" allow="autoplay"></iframe>
 <br>
 <br>
 <br>
