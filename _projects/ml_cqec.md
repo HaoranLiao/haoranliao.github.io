@@ -12,7 +12,7 @@ We were invited to talk about our paper <a href="https://iopscience.iop.org/arti
 <br>
 Welcome to learn about how we leverage Bayesian inference and machine learning for continuous-in-time, ancilla-free quantum error corrections below. 
 
-<iframe src="https://drive.google.com/file/d/1oXeCnGx6doLSxZ4yDbyyoTsYafs9-zzK/preview" width="770" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1oXeCnGx6doLSxZ4yDbyyoTsYafs9-zzK/preview" width="770" height="850" allow="autoplay"></iframe>
 <br>
 <br>
 <br>
