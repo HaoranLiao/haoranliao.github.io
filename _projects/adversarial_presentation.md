@@ -12,5 +12,5 @@ I gave a talk at the <a href="https://meetings.aps.org/Meeting/MAR21/Session/S32
 <br>
 Below are extended slides showing that we argue against the extreme, exponential vulnerabilities of general quantum classifiers theoretically, and instead prove mild, polynomial vulnerabilities on practically relevant states to be classified, suggesting that general quantum classifiers are still potentially useful.
 
-<iframe src="https://drive.google.com/file/d/1MJyDh6tStUL-a47kqqWpFnf_bFC2H6Ro/preview" width="770" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1MJyDh6tStUL-a47kqqWpFnf_bFC2H6Ro/preview" width="770" height="850" allow="autoplay"></iframe>
 
