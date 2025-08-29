@@ -12,7 +12,7 @@ for long-range CNOT gates that achieves superior performance across up to at lea
 <br>
 <br>
 Below are my slides for the APS Global Summit 2025
-<iframe src="https://drive.google.com/file/d/1gpJjRzN2QLDs9lIspvBEaxl2zLAQDmod/preview" width="770" height="880" allow="autoplay" frameborder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1gpJjRzN2QLDs9lIspvBEaxl2zLAQDmod/preview" width="770" height="830" allow="autoplay" frameborder="0"></iframe>
 <br>
 Our paper also presented the preparation of GHZ states up to 75 qubits, achieved with sparse parity checks for error detection and assited by error suppression. This record has been documented (though not entirely correctly) in the <a href="https://mariokrenn.wordpress.com/2021/01/29/reference-list-for-records-in-large-entanglement-generation-number-of-qubits-in-ghz-states/">Largest genuine entanglement: Qubits in GHZ state</a> tracking website. Our work is also covered by <a href="https://www.newscientist.com/article/2480310-are-entangled-qubits-following-a-quantum-moores-law/">New Scientist</a> (<a href="https://archive.ph/UTnKL">archived webpage</a>).
 <br>
@@ -21,12 +21,12 @@ I would like to ammend <a href="https://docs.google.com/document/d/1bl0N_nS3pTwj
 <br>
 <br>
 Below is my poster at the 2024 NSF workshop on quantum real-time control and 2025 IEEE quantum week. 
-<iframe src="https://drive.google.com/file/d/1Xku5_jwUmfoxZ8IaOv4Nbo7i4tKc4-n3/preview" width="770" height="750" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1Xku5_jwUmfoxZ8IaOv4Nbo7i4tKc4-n3/preview" width="770" height="850" allow="autoplay"></iframe>
 <br>
 <br>
 <br>
 My more comprehensive, more technical slides for the paper
-<iframe src="https://drive.google.com/file/d/1T-ifkgvNKX4oFjoua88ww-x6VqmlFNkk/preview" width="770" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1T-ifkgvNKX4oFjoua88ww-x6VqmlFNkk/preview" width="770" height="800" allow="autoplay"></iframe>
 
 
 <!--<iframe src="https://drive.google.com/file/d/11x9Hg3D7xLCSAuVjiHH9nyJQzt2FH6yC/preview" width="770" height="750" allow="autoplay"></iframe> <iframe src="https://drive.google.com/file/d/1v2z-tE1cPWruCcda4GEv5zX6XirsjKNb/preview" width="770" height="990" allow="autoplay"></iframe>-->
