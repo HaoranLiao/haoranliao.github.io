@@ -20,7 +20,7 @@ Our paper also presented the preparation of GHZ states up to 75 qubits, achieved
 I would like to ammend <a href="https://docs.google.com/document/d/1bl0N_nS3pTwjV9Y8LEgUwpq40AHjOf6ZPSPXCS_8njc/edit?usp=sharing">a small correction to our Appendix D</a>, clarifying why the fidelity estimation of an n-qubit GHZ state by sampling its stabilizers drastically underestimates the state fidelity and is unfavored.
 <br>
 <br>
-Below is my poster at the <a href="https://www.youtube.com/live/w7GHPmfCzZs?si=MMaW3E6smH1is4rN">2024 NSF workshop on quantum real-time control and 2025 IEEE quantum week</a>. 
+Below is my poster at the 2024 NSF workshop on quantum real-time control and 2025 IEEE quantum week. 
 <iframe src="https://drive.google.com/file/d/1Xku5_jwUmfoxZ8IaOv4Nbo7i4tKc4-n3/preview" width="770" height="750" allow="autoplay"></iframe>
 <br>
 <br>
