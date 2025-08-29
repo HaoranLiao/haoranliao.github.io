@@ -17,7 +17,7 @@ Our work suggests positive results in all these aspects. <br>
 I had the opportunity to discuss this at the live-streamed weekly <a href="https://www.youtube.com/live/w7GHPmfCzZs?si=MMaW3E6smH1is4rN">Qiskit Seminar</a> on Qiskit's YouTube channel, and at the <a href="https://qai-workshop.ornl.gov/schedule/">IEEE Quantum Week 2023</a>. We are also interviewed by <a href="https://phys.org/news/2024-12-simple-machine-techniques-quantum-error.html">Phys.org</a> and welcome to check out the coverage.
 <br>
 
-<iframe src="https://drive.google.com/file/d/1MPEpSl4Sia9AQzX-tpA38a1SLq_Mv2F3/preview" width="770" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1MPEpSl4Sia9AQzX-tpA38a1SLq_Mv2F3/preview" width="770" height="850" allow="autoplay"></iframe>
 <br>
 <br>
 The research code for all the simulations and experiments can be found at this <a href="https://github.com/qiskit-community/blackwater/tree/research">Github repo</a>.
