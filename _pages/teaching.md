@@ -81,8 +81,8 @@ classically intractable circuits. Showed its superiority for variational algorit
 ---
 
 #### Patents
-- 01/24,&ensp;Suppression of correlated noise in quantum computers (IBM Quantum)
-- 09/23,&ensp;Performing quantum error mitigation at runtime using trained machine learning model (IBM Quantum)
+- 01/24,&ensp;Suppression of correlated noise in quantum computers
+- 09/23,&ensp;Performing quantum error mitigation at runtime using trained machine learning model
 
 ---
 
