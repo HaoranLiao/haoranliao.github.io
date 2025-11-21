@@ -33,7 +33,7 @@ latest_posts:
 I'm very passionate about improving quantum computers and studying what they can offer to physicists. <!--Currently, I'm particularly interested in superconducting device physics and quantum error correction.-->
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
-I'm exploring quantum error correction, quantum simulation, and optimization. I have a solid background in quantum error mitigation/suppression/correction, superconducting qubit control, quantum error characterization, open-system dynamics, quantum machine learning, etc. I graduated with my Ph.D. from UC Berkeley, supervised by K. Birgitta Whaley. I was also an intern supervised by Zlatko K. Minev at IBM Quantum. I'm currently a senior research scientist at <a href="https://q-ctrl.com/">Q-CTRL</a>. Welcome to check out my work through the slides accessible from the navigation bar. 
+I'm exploring quantum error correction, quantum simulation, and optimization. I have a solid background in quantum error mitigation/suppression/correction, superconducting qubit control, quantum error characterization, open-system dynamics, quantum machine learning, etc. Welcome to check out my work through the slides accessible from the navigation bar. 
 
 [//]: # ([Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>])
 
