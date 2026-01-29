@@ -489,7 +489,7 @@ ninja.data = [{
               window.location.href = "/projects/rl_project/";
             },},{id: "projects-superconducting-qubit-control",
           title: 'Superconducting Qubit Control',
-          description: "A straightforward introduction",
+          description: "Full device physics derivations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/straightforward_introduction/";
             },},{
