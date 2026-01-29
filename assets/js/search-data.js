@@ -487,6 +487,11 @@ ninja.data = [{
           description: "CS 285 final project  Random Expert Distillation for reinforcement learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/rl_project/";
+            },},{id: "projects-superconducting-qubit-control",
+          title: 'Superconducting Qubit Control',
+          description: "A straightforward introduction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/straightforward_introduction/";
             },},{
         id: 'social-email',
         title: 'email',
