@@ -3,7 +3,7 @@ layout: page
 title:  Superconducting Qubit Control
 description: A straightforward introduction
 img: assets/img/milky2.jpeg
-importance: 1
+importance: 0
 category: physics
 ---
 
