@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Superconducting Qubit Control
-description: A straightforward introduction
+title:  <nobr>Superconducting</nobr> Qubit Control
+description: Full device physics derivations
 img: assets/img/transmon.jpg
 importance: 0
 category: talk
