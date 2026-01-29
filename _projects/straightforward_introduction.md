@@ -2,9 +2,9 @@
 layout: page
 title:  Superconducting Qubit Control
 description: A straightforward introduction
-img: assets/img/milky2.jpeg
+img: assets/img/transmon.jpg
 importance: 0
-category: physics
+category: talk
 ---
 
 To anyone not having a background of superconducting device physics but interested to learn about it, here is a straightforward introduction to superconducting qubit control! I'm grateful to Vinay who guided me to learn these basic device physics and to derive them from the ground up. 
