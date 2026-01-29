@@ -7,6 +7,6 @@ importance: 0
 category: talk
 ---
 
-To anyone not having a background of superconducting device physics but interested to learn about it, here is a straightforward introduction to superconducting qubit control! I'm grateful to Vinay who guided me to learn these basic device physics and to derive them from the ground up. 
+For anyone without a background in superconducting device physics who’s curious to learn, here’s a straightforward introduction to superconducting qubit control to help you get started! I'm grateful to Vinay who guided me to learn these device physics. 
 
-<iframe src="https://drive.google.com/file/d/1OJQrOgEct3GIvsBXSjJu590-2b_sa63X/preview" width="770" height="880" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1OJQrOgEct3GIvsBXSjJu590-2b_sa63X/preview" width="820" height="920" allow="autoplay"></iframe>
