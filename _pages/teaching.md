@@ -56,6 +56,11 @@ familiar with FT Steane code, surface code; familiar with FT gadgets, lattice su
     * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (<a href="https://link.springer.com/article/10.1007/s42484-022-00095-9">Quantum Mach. Intell. 2023</a>)
     * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac44a9/meta">Mach. Learn.: Sci. Technol. 2021</a>)
 
+---
+
+#### Project
+- [A straightforward introduction to superconducting qubit control](https://haoranliao.github.io/projects/straightforward_introduction), H. Liao, V. Tripathi 
+  <br> An introductory guide to superconducting device physics  with full derivations from the scratch.
 
 ---
 
