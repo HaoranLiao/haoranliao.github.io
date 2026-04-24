@@ -17,9 +17,11 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Experience with analytical and numerical circuit-level investigation of QEC and FTQC, computing logical error rate;
 familiar with FT Steane code, surface code; familiar with FT gadgets, lattice surgery, magic state cultivation.
 * Coding:
-  * Qiskit, Stim, Git
+  * Qiskit, Stim; Git
 * Other:
   * Error mitigation/suppression, Superconducting qubit control, Fermionic simulation, QCVV, Tensor network
+ 
+---
 
 #### Education
 
