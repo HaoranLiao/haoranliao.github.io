@@ -11,6 +11,16 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 
+#### Skills
+
+* QEC:
+  * Experience with analytical and numerical circuit-level investigation of QEC and FTQC, computing logical error rate;
+familiar with FT Steane code, surface code; familiar with FT gadgets, lattice surgery, magic state cultivation.
+* Coding:
+  * Qiskit, Stim, Git
+* Other:
+  * Error mitigation/suppression, Superconducting qubit control, Fermionic simulation, QCVV, Tensor network
+
 #### Education
 
 * Ph.D. Physics, University of California, Berkeley
@@ -22,25 +32,29 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 #### Experience
 * Senior Research Scientist, Q-CTRL
-<br> 02/2024&ndash;Present &nbsp;Los Angeles, United States
-  * Designed and implemented a novel protocol for long-range CNOT gates that significantly outperforms the alternative measurement-based protocol, achieving the highest-fidelity CNOT gate teleportation across up to at least 40 lattice sites on solid-state devices to date. Leveraged limited error detection schemes to enable large-scale GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
-  * Ongoing research on many-body physics simulation, and quantum optimization.
+<br> 02/2024&ndash;&ndash;Present &nbsp;Los Angeles, United States
+  * QEC-related research and demonstration
+    * Investigating magic state cultivation on superconducting hardware, and more superconducting hardware friendly FT implementation of Steane code.
+    * Designed and implemented a new protocol for long-range CNOT gates that is currently state-of-the-art, achieving the highest gate fidelity across up to 40+ qubits, leveraging error detection. Leveraged sparse parity checks to enable 75-qubit GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
+  * Improve hardware performance by error detection/suppression/mitigation and compilation
+    * Improved simulation of Fermi-Hubbard-like model in 1D and 2D on IBM hardware with more depth-efficient compilation, also enabling research on unexplored physics.
+    * Simulating high-energy physics model on ion-trapped devices with error detection and error mitigation. ([arXiv 2026](https://arxiv.org/pdf/2604.14094))
 * Research Intern, IBM Quantum
-<br> 02/2023&ndash;08/2023 &nbsp;New York, United States
-  * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
-  * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on
-classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (<a href="https://www.nature.com/articles/s42256-024-00927-2">Nat. Mach. Intell. 2024</a>, NeuIPS AI4Science 2023)
-  * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (<a href="https://arxiv.org/abs/2408.03376">arXiv 2024</a>)
-
-[//]: # (  e.g., crosstalk absorption)
-[//]: # (  on Heisenberg model simulations.)
+<br> 02/2023&ndash;&ndash;08/2023 &nbsp;New York, United States
+  * Develop novel quantum error mitigation and error suppression techniques
+    * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (<a href="https://www.nature.com/articles/s42256-024-00927-2">Nat. Mach. Intell. 2024</a>, NeuIPS AI4Science 2023)
+    * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
+  * Quantum error characterization
+    * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (<a href="https://arxiv.org/abs/2408.03376">arXiv 2024</a>)
 
 * Ph.D. Student Researcher, UC Berkeley
-<br> 09/2018&ndash;12/2023 &nbsp;Berkeley, United States
-  * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042427">Phys. Rev. A 2021</a>)
-  * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac66f9/meta">New J. Phys. 2022</a>)
-  * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (<a href="https://link.springer.com/article/10.1007/s42484-022-00095-9">Quantum Mach. Intell. 2023</a>)
-  * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac44a9/meta">Mach. Learn.: Sci. Technol. 2021</a>)
+<br> 09/2018&ndash;&ndash;12/2023 &nbsp;Berkeley, United States
+  * QEC
+    * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac66f9/meta">New J. Phys. 2022</a>)
+  * Variational algorithms
+    * Derived the robustness of general quantum classifiers against worst-case input perturbations based on concentration of measure phenomenon. Proved that the practical robustness of generic quantum classifiers decreases only mildly polynomially in the number of qubits, in contrast to the extreme vulnerability previously believed. (<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.042427">Phys. Rev. A 2021</a>)
+    * Analytically and numerically studied decoherence in tensor network discriminative QML models and their connections to classical Bayesian networks. Showed that adding noisy ancillas helps mitigate decoherence in simulations with distributed GPU training. (<a href="https://link.springer.com/article/10.1007/s42484-022-00095-9">Quantum Mach. Intell. 2023</a>)
+    * Collaborated on showing tensor networks with boundary-law entanglement entropy are suitable for classifying datasets with similar mutual information scaling. (<a href="https://iopscience.iop.org/article/10.1088/2632-2153/ac44a9/meta">Mach. Learn.: Sci. Technol. 2021</a>)
 
 
 ---
@@ -66,18 +80,20 @@ classically intractable circuits. Showed its superiority for variational algorit
 
 #### Talks & Seminars
 - 09/25,&ensp;IEEE Quantum Week<br>
-- 03/25,&ensp;APS Global Physics Summit<br>
 - 11/24,&ensp;NSF Workshop on Real-Time Control<br>
-- 03/24,&ensp;APS March Meeting<br>
 - 12/23,&ensp;NeuIPS AI4Science Workshop<br>
 - 11/23,&ensp;Unitary Fund Seminar<br>
 - 10/23,&ensp;Qiskit Seminar<br>
 - 09/23,&ensp;IEEE Quantum Week<br>
-- 03/22,&ensp;APS March Meeting<br>
 - 01/22,&ensp;Quantum System Accelerator (QSA) Seminar<br>
 - 10/21,&ensp;Quantum Techniques in Machine Learning (QTML)<br>
-- 03/21,&ensp;APS March Meeting<br>
 
+
+
+<!-- - 03/25,&ensp;APS Global Physics Summit<br> -->
+<!-- - 03/24,&ensp;APS March Meeting<br> -->
+<!-- - 03/22,&ensp;APS March Meeting<br> -->
+<!-- - 03/21,&ensp;APS March Meeting<br> -->
 ---
 
 #### Patents
