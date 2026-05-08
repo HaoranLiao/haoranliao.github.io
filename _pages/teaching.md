@@ -39,7 +39,7 @@ familiar with FT Steane code, surface code; familiar with FT gadgets, lattice su
     * Investigating magic state cultivation on superconducting hardware, and more superconducting hardware friendly FT implementation of Steane code.
     * Designed and implemented a new protocol for long-range CNOT gates that is currently state-of-the-art, achieving the highest gate fidelity across up to 40+ qubits, leveraging error detection. Leveraged sparse parity checks to enable 75-qubit GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
   * Improve hardware performance by error detection/suppression/mitigation and compilation
-    * Designed and implemented the pair-interleaved ordering for the fermionic-to-qubit mapping of the Fermi-Hubbard model, leading to the most efficient compilation of the model in 1D and beyond, enabling the largest quantum circuit ever executed with signals. ([arXiv 2026](https://arxiv.org/pdf/2605.04025))
+    * Designed and implemented the most efficient compilation of the Fermi-Hubbard model in 1D and beyond: the *pair-interleaved* ordering of the fermion-to-qubit mapping and its fSWAP network, which was the most critical improvement that enabled the deepest large-scale circuit ever executed on quantum hardware. ([arXiv 2026](https://arxiv.org/pdf/2605.04025))
     * Simulating high-energy physics model on ion-trapped devices with error detection and error mitigation. ([arXiv 2026](https://arxiv.org/pdf/2604.14094))
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;&ndash;08/2023 &nbsp;New York, United States
