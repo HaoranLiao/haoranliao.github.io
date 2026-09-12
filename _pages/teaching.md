@@ -47,7 +47,7 @@ familiar with FT Steane code, surface code; familiar with FT gadgets, lattice su
     * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (<a href="https://www.nature.com/articles/s42256-024-00927-2">Nat. Mach. Intell. 2024</a>, NeuIPS AI4Science 2023)
     * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
   * Quantum error characterization
-    * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (<a href="[https://arxiv.org/abs/2408.03376](https://www.nature.com/articles/s41467-026-75553-0#citeas)">NatComms 2026</a>)
+    * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. (<a href="https://www.nature.com/articles/s41467-026-75553-0#citeas">Nat. Commun. 2026</a>)
 
 * Ph.D. Student Researcher, UC Berkeley
 <br> 09/2018&ndash;&ndash;12/2023 &nbsp;Berkeley, United States
