@@ -9,7 +9,7 @@ last_name: Liao
 email: haoranliao2@gmail.com
 contact_note: >
   Feel free to drop me a line by the email icon above.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >- # the ">-" symbol folds the lines below into one, without a trailing newline
   My academic portfolio
 footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -109,9 +109,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: /assets/img/my_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -250,6 +250,31 @@ exclude:
   - gems/
   - migrations/
   - vendor
+  - test/
+  - requirements.txt
+  # al-folio demo content kept in the repo (so upstream syncs merge cleanly)
+  # but not published on this site
+  - _posts/
+  - _news/
+  - _books/
+  - _teachings/
+  - _projects/[1-9]_project.md
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/cv.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/plugins.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - assets/audio/
+  - assets/bibliography/
+  - assets/html/
+  - assets/jupyter/
+  - assets/pdf/example_pdf.pdf
+  - assets/plotly/
+  - assets/rendercv/
+  - assets/video/
 keep_files:
   - CNAME
   - .nojekyll

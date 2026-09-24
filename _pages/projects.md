@@ -5,7 +5,7 @@ permalink: /projects/
 description: Short descriptions with slides on my papers
 nav: true
 nav_order: 3
-display_categories: [talk, physics, data & cs, fun]
+display_categories: [talk, physics, data & cs]
 horizontal: false
 ---
 
