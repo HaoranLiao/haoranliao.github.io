@@ -1,0 +1,36 @@
+/*******************************************************************************
+ * Site-specific style tweaks layered on top of al_folio_core.
+ ******************************************************************************/
+
+@use "animations";
+
+// Section dividers: a single hairline with even spacing. The v1 theme only sets
+// border-top, so browsers fall back to a 2px inset rule with tight margins.
+hr {
+  border: 0;
+  border-top: 1px solid var(--global-divider-color);
+  margin: 1rem 0;
+  opacity: 1;
+}
+
+// Nested lists (e.g. on the CV page) shouldn't add a paragraph gap after themselves.
+ol ol,
+ul ul,
+ol ul,
+ul ol {
+  margin-bottom: 0;
+}
+
+// Muted project-card descriptions, as before v1 (previously supplied by MDB).
+.card .card-body .card-text {
+  color: #747373;
+}
+
+html[data-theme="dark"] .card .card-body .card-text {
+  color: #a3a3a3;
+}
+
+// Uppercase publication buttons (ABS / HTML / PDF), as before v1.
+.publications .links a.btn {
+  text-transform: uppercase;
+}

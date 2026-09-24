@@ -1,0 +1,91 @@
+/*******************************************************************************
+ * Page transitions and scroll motion.
+ *
+ * All of this is progressive enhancement: browsers without support navigate and
+ * render exactly as before, and nothing moves for visitors who ask for reduced
+ * motion.
+ ******************************************************************************/
+
+$ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+
+@media (prefers-reduced-motion: no-preference) {
+  // Animate between pages (cross-document View Transitions).
+  @view-transition {
+    navigation: auto;
+  }
+
+  // Navbar and footer stay put, the page heading morphs into the next page's
+  // heading, and the rest of the page slides.
+  .navbar {
+    view-transition-name: site-navbar;
+  }
+
+  footer.fixed-bottom {
+    view-transition-name: site-footer;
+  }
+
+  .post-title {
+    view-transition-name: page-title;
+  }
+
+  [role="main"] {
+    view-transition-name: page-content;
+  }
+
+  ::view-transition-group(*) {
+    animation-duration: 420ms;
+    animation-timing-function: $ease-out;
+  }
+
+  ::view-transition-old(page-content) {
+    animation: 180ms ease-in both page-out;
+  }
+
+  ::view-transition-new(page-content) {
+    animation: 440ms $ease-out 60ms both page-in;
+  }
+
+  // Browsers without View Transitions get a simple fade-in on each page load.
+  // (Suppressing it only during a transition would replay it when one ends.)
+  @supports not selector(:active-view-transition) {
+    [role="main"] {
+      animation: 440ms $ease-out backwards page-in;
+    }
+  }
+
+  // Reveal list entries and cards as they scroll into view. Anything already on
+  // screen when the page loads is shown as-is.
+  @supports (animation-timeline: view()) {
+    .publications h2.bibliography,
+    .publications ol.bibliography > li,
+    .projects h2.category,
+    .projects .col,
+    .post article > h4,
+    .post article > ul > li {
+      animation: reveal-up linear both;
+      animation-timeline: view();
+      animation-range: entry 0px entry 160px;
+    }
+  }
+}
+
+@keyframes page-out {
+  to {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes page-in {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+}
+
+@keyframes reveal-up {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+}
