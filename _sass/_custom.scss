@@ -2,6 +2,8 @@
  * Site-specific style tweaks layered on top of al_folio_core.
  ******************************************************************************/
 
+@use "animations";
+
 // Section dividers: a single hairline with even spacing. The v1 theme only sets
 // border-top, so browsers fall back to a 2px inset rule with tight margins.
 hr {
