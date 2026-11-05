@@ -36,7 +36,7 @@ familiar with FT Steane code, surface code; familiar with FT gadgets, lattice su
 * Senior Research Scientist, Q-CTRL
 <br> 02/2024&ndash;&ndash;Present &nbsp;Los Angeles, United States
   * QEC-related research and demonstration
-    * Investigating magic state cultivation on superconducting hardware, and more superconducting hardware friendly FT implementation of Steane code.
+    * Investigating magic state cultivation and qLDPC decoder. Manuscript in preparation: "Magic state cultivation with lattice-surgery escape on superconducting hardware".
     * Designed and implemented a new protocol for long-range CNOT gates that is currently state-of-the-art, achieving the highest gate fidelity across up to 40+ qubits, leveraging error detection. Leveraged sparse parity checks to enable 75-qubit GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
   * Improve hardware performance by error detection/suppression/mitigation and compilation
     * Designed and implemented the most efficient compilation of the Fermi-Hubbard model in 1D and beyond: the *pair-interleaved* ordering of the fermion-to-qubit mapping together with its fSWAP network, which was the most critical improvement that enabled the deepest large-scale circuit ever executed on quantum hardware. ([arXiv 2026](https://arxiv.org/pdf/2605.04025))
