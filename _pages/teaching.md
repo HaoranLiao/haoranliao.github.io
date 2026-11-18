@@ -17,7 +17,7 @@ Organize your courses by years, topics, or universities, however you like! -->
   * Experience with circuit-level investigation of FTQC, computing logical error rate;
 familiar with CSS formalism; familiar with lattice surgery, code deformation / switching, magic state cultivation / distillation.
 * Other:
-  * Error mitigation/suppression, Superconducting qubit control, Fermionic simulation, QCVV, Tensor network
+  * Error mitigation / suppression, Superconducting qubit control, Fermionic simulation, QCVV, Tensor network
 * Coding:
   * Stim, Qiskit; Git
  
