@@ -16,10 +16,10 @@ Organize your courses by years, topics, or universities, however you like! -->
 * QEC:
   * Experience with circuit-level investigation of FTQC, computing logical error rate;
 familiar with CSS formalism; familiar with lattice surgery, code deformation / switching, magic state cultivation / distillation.
-* Coding:
-  * Qiskit, Stim; Git
 * Other:
   * Error mitigation/suppression, Superconducting qubit control, Fermionic simulation, QCVV, Tensor network
+* Coding:
+  * Stim, Qiskit; Git
  
 ---
 
@@ -40,8 +40,8 @@ familiar with CSS formalism; familiar with lattice surgery, code deformation / s
     * The first experimental demonstration of magic state cultivation with lattice-surgery escape (improved) into the surface code. Achieved record surface-code magic-state fidelity and per-memory-cycle LER. Extended and completed the alternative magic state cultivation with grafting escape by incorporating a switch into a matchable grafted code. ([arXiv 2026](https://arxiv.org/pdf/2611.22035))
     * Designed and implemented a new protocol for long-range CNOT gates that is currently state-of-the-art, achieving the highest gate fidelity across up to 40+ qubits, leveraging error detection. Leveraged sparse parity checks to enable 75-qubit GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
   * Improve hardware performance by error detection/suppression/mitigation and compilation
-    * Designed and implemented the most efficient compilation of the Fermi-Hubbard model in 1D and beyond: the *pair-interleaved* ordering of the fermion-to-qubit mapping together with its fSWAP network, which was the most critical improvement that enabled the deepest large-scale circuit ever executed on quantum hardware. ([arXiv 2026](https://arxiv.org/pdf/2605.04025))
-    * Simulating high-energy physics model on ion-trapped devices with error detection and error mitigation. ([arXiv 2026](https://arxiv.org/pdf/2604.14094))
+    * Designed and implemented the most efficient compilation of the Fermi-Hubbard model in 1D and beyond: the *pair-interleaved* ordering of the fermion-to-qubit mapping together with its fSWAP network, critically enabling the deepest large-scale circuit ever executed on quantum hardware. ([arXiv 2026](https://arxiv.org/pdf/2605.04025))
+    * Simulating high-energy physics model on ion-trapped devices with error detection and mitigation. ([arXiv 2026](https://arxiv.org/pdf/2604.14094))
 * Research Intern, IBM Quantum
 <br> 02/2023&ndash;&ndash;08/2023 &nbsp;New York, United States
   * Develop novel quantum error mitigation and error suppression techniques
