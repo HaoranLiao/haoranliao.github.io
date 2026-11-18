@@ -14,8 +14,8 @@ Organize your courses by years, topics, or universities, however you like! -->
 #### Skills
 
 * QEC:
-  * Experience with analytical and numerical circuit-level investigation of QEC and FTQC, computing logical error rate;
-familiar with FT Steane code, surface code; familiar with FT gadgets, lattice surgery, magic state cultivation.
+  * Experience with circuit-level investigation of FTQC, computing logical error rate;
+familiar with CSS formalism; familiar with lattice surgery, code deformation / switching, magic state cultivation / distillation.
 * Coding:
   * Qiskit, Stim; Git
 * Other:
@@ -27,6 +27,7 @@ familiar with FT Steane code, surface code; familiar with FT gadgets, lattice su
 
 * Ph.D. Physics, University of California, Berkeley
 <br> Supervisor: K. Birgitta Whaley
+<br> Co-supervisor: Irfan Siddiqi
 <!--<br> Dissertation: Interplay between quantum computation and machine learning-->
 * B.Sc. Honours Mathematics and Physics, McGill University <!--, Montr&#233;al, Qu&#233;bec-->
 
