@@ -35,7 +35,7 @@ familiar with CSS formalism; familiar with lattice surgery, code deformation / s
 
 #### Experience
 * Senior Research Scientist, Q-CTRL
-<br> 02/2024&ndash;&ndash;Present &nbsp;Los Angeles, United States
+<br> 02/2024&thinsp;&mdash;&thinsp;Present &nbsp;Los Angeles, United States
   * QEC-related research and demonstration
     * The first experimental demonstration of magic state cultivation with lattice-surgery escape (improved) into the surface code. Achieved record surface-code magic-state fidelity and per-memory-cycle LER. Extended and completed the alternative magic state cultivation with grafting escape by incorporating a switch into a matchable grafted code. ([arXiv 2026](https://arxiv.org/pdf/2611.22035))
     * Designed and implemented a new protocol for long-range CNOT gates that is currently state-of-the-art, achieving the highest gate fidelity across up to 40+ qubits, leveraging error detection. Leveraged sparse parity checks to enable 75-qubit GHZ state preparation. (<a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.6.020331">PRX Quantum 2025</a>)
@@ -43,7 +43,7 @@ familiar with CSS formalism; familiar with lattice surgery, code deformation / s
     * Designed and implemented the most efficient compilation of the Fermi-Hubbard model in 1D and beyond: the *pair-interleaved* ordering of the fermion-to-qubit mapping together with its fSWAP network, critically enabling the deepest large-scale circuit ever executed on quantum hardware. ([arXiv 2026](https://arxiv.org/pdf/2605.04025))
     * Simulating high-energy physics model on ion-trapped devices with error detection and mitigation. ([arXiv 2026](https://arxiv.org/pdf/2604.14094))
 * Research Intern, IBM Quantum
-<br> 02/2023&ndash;&ndash;08/2023 &nbsp;New York, United States
+<br> 02/2023&thinsp;&mdash;&thinsp;08/2023 &nbsp;New York, United States
   * Develop novel quantum error mitigation and error suppression techniques
     * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (<a href="https://www.nature.com/articles/s42256-024-00927-2">Nat. Mach. Intell. 2024</a>, NeuIPS AI4Science 2023)
     * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
@@ -51,7 +51,7 @@ familiar with CSS formalism; familiar with lattice surgery, code deformation / s
     * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. ([Nat. Commun. 2026](https://www.nature.com/articles/s41467-026-75553-0#citeas))
 
 * Ph.D. Student Researcher, UC Berkeley
-<br> 09/2018&ndash;&ndash;12/2023 &nbsp;Berkeley, United States
+<br> 09/2018&thinsp;&mdash;&thinsp;12/2023 &nbsp;Berkeley, United States
   * QEC
     * Developed a protocol for continuous quantum error correction on dispersive readout signals on superconducting qubits. The protocol decodes and applies active corrections. Benchmarked against Bayesian inference model on tasks including quantum annealing. (<a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac66f9/meta">New J. Phys. 2022</a>)
   * Variational algorithms
