@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Superconducting Qubit Control
+title: Supercon­ducting Qubit Control
 description: Full device physics derivations
 img: assets/img/transmon.jpg
 importance: 0
