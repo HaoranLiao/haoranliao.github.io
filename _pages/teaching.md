@@ -46,7 +46,7 @@ familiar with CSS formalism; familiar with lattice surgery, code deformation / s
 <br> 02/2023&thinsp;&mdash;&thinsp;08/2023 &nbsp;New York, United States
   * Develop novel quantum error mitigation and error suppression techniques
     * Developed a machine learning-based quantum error mitigation technique that significantly reduces the cost of traditional quantum error mitigation methods without sacrificing accuracy on classically intractable circuits. Showed its superiority for variational algorithms such as VQE, and tomography-like experiments. (<a href="https://www.nature.com/articles/s42256-024-00927-2">Nat. Mach. Intell. 2024</a>, NeurIPS AI4Science 2023)
-    * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
+    * Crosstalk suppression by context-aware compilation absorbing transmon crosstalk into the Hamiltonian in many-body physics simulations. Designed and implemented the staggered dynamical decoupling for crosstalk suppression. (<a href="https://ieeexplore.ieee.org/abstract/document/10609605">Proceedings of ISCA 2024</a>)
   * Quantum error characterization
     * Pauli channel estimation using error-mitigated entanglement-enhanced benchmarking, exponentially reducing sampling complexity compared to cycle benchmarking. ([Nat. Commun. 2026](https://www.nature.com/articles/s41467-026-75553-0#citeas))
 
