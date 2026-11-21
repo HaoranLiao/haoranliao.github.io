@@ -10,7 +10,6 @@ profile:
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="text-align: center"><p><small>1335 4th Street,</small></p></div>
     <div style="text-align: center"><p><small>Santa Monica, CA 90401</small></p></div>
     <p>&nbsp;</p>
 
