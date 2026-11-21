@@ -38,8 +38,6 @@ I'm researching quantum error correction and many-body quantum simulation. I hav
 [//]: # ([Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>])
 
 Besides physics, I'm also interested in computer science and its interplay with physics.
-In my free time I like traveling, and photography---here's my <a href="https://haoranliao.github.io/photography/">portfolio</a>.
-
 <!--and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.-->
 
 <br>
