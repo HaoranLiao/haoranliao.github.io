@@ -33,7 +33,7 @@ latest_posts:
 I'm very passionate about making quantum computers practical and studying what they can offer to physicists. <!--Currently, I'm particularly interested in superconducting device physics and quantum error correction.-->
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
-I'm researching quantum error correction and many-body quantum simulation. I have had papers on quantum error correction/mitigation/suppression, simulation, characterization, open-system dynamics, superconducting qubit control, tensor networks, quantum machine learning, and etc. Welcome to check out my work through the <a href="https://haoranliao.github.io/projects/">slides</a> accessible from the navigation bar. 
+I'm researching quantum error correction and many-body quantum simulation. I have had papers on fault-tolerant quantum computation, quantum simulation, quantum error mitigation / suppression, characterization, open-system dynamics, superconducting qubit control, tensor networks, quantum machine learning, and etc. Welcome to check out my work through the <a href="https://haoranliao.github.io/projects/">slides</a> / <a href="https://haoranliao.github.io/projects/">projects</a> accessible from the navigation bar. 
 
 [//]: # ([Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>])
 
