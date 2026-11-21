@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://haoranliao.github.io/">Quantum Computing Research</a>
+subtitle: <a href="https://haoranliao.github.io/">Quantum Research Scientist</a>
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
