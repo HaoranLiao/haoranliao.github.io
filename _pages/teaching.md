@@ -85,6 +85,12 @@ Organize your courses by years, topics, or universities, however you like! -->
 
 ---
 
+#### Patents
+- 01/24,&ensp;Suppression of correlated noise in quantum computers
+- 09/23,&ensp;Performing quantum error mitigation at runtime using trained machine learning model
+
+---
+
 #### Talks & Seminars
 - 09/25,&ensp;IEEE Quantum Week<br>
 - 11/24,&ensp;NSF Workshop on Real-Time Control<br>
@@ -101,12 +107,6 @@ Organize your courses by years, topics, or universities, however you like! -->
 <!-- - 03/24,&ensp;APS March Meeting<br> -->
 <!-- - 03/22,&ensp;APS March Meeting<br> -->
 <!-- - 03/21,&ensp;APS March Meeting<br> -->
----
-
-#### Patents
-- 01/24,&ensp;Suppression of correlated noise in quantum computers
-- 09/23,&ensp;Performing quantum error mitigation at runtime using trained machine learning model
-
 ---
 
 #### Teaching
