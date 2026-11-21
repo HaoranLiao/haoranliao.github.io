@@ -37,7 +37,7 @@ I'm researching quantum error correction and many-body quantum simulation. I hav
 
 [//]: # ([Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>])
 
-Besides physics, I'm also interested in computer science and its interplay with physics.
+Besides physics, I'm also interested in computer science and its interplay with physics. You can find my publications <a href="https://haoranliao.github.io/publications/">here</a> and <a href="https://scholar.google.com/citations?user=P35A9JoAAAAJ&hl=en">there</a>. You can also find me <a href="https://haoranliao.github.io/photography/">here and there</a>.
 <!--and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.-->
 
 <br>
