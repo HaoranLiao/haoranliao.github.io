@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://haoranliao.github.io/">Quantum Research Scientist</a>
+subtitle: <a href="https://haoran-liao.com/">Quantum Research Scientist</a>
 <!-- subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
@@ -32,11 +32,11 @@ latest_posts:
 I'm very passionate about making quantum computers practical and studying what they can offer to physicists. <!--Currently, I'm particularly interested in superconducting device physics and quantum error correction.-->
 
 [//]: # (<a href='http://www.cchem.berkeley.edu/kbwgrp/index.php/People/HaoranLiao'>University of California, Berkeley</a>)
-I'm researching quantum error correction and many-body quantum simulation. I have had papers on fault-tolerant quantum computation, quantum simulation, quantum error mitigation, suppression, characterization, superconducting qubit control, open-system dynamics, tensor networks, quantum machine learning, and etc. Welcome to check out my work through the <a href="https://haoranliao.github.io/projects/">short slides</a> / <a href="https://haoranliao.github.io/projects/">projects</a> accessible from the navigation bar. 
+I'm researching quantum error correction and many-body quantum simulation. I have had papers on fault-tolerant quantum computation, quantum simulation, quantum error mitigation, suppression, characterization, superconducting qubit control, open-system dynamics, tensor networks, quantum machine learning, and etc. Welcome to check out my work through the <a href="https://haoran-liao.com/projects/">short slides</a> / <a href="https://haoran-liao.com/projects/">projects</a> accessible from the navigation bar.
 
 [//]: # ([Research <a href='https://marwahaha.github.io/arxiv-wordcloud/?author=Haoran%20Liao'>word cloud</a>])
 
-Besides physics, I'm also interested in computer science and its interplay with physics. You can find my publications <a href="https://haoranliao.github.io/publications/">here</a> and <a href="https://scholar.google.com/citations?user=P35A9JoAAAAJ&hl=en">there</a>. You can also find me <a href="https://haoranliao.github.io/photography/">here and there</a>.
+Besides physics, I'm also interested in computer science and its interplay with physics. You can find my publications <a href="https://haoran-liao.com/publications/">here</a> and <a href="https://scholar.google.com/citations?user=P35A9JoAAAAJ&hl=en">there</a>. You can also find me <a href="https://haoran-liao.com/photography/">here and there</a>.
 <!--and <a href="https://500px.com/p/haoranliao?view=photos">500px</a>.-->
 
 <br>

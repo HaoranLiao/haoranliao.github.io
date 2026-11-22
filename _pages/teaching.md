@@ -61,7 +61,7 @@ Organize your courses by years, topics, or universities, however you like! -->
 ---
 
 #### Project
-- [A straightforward introduction to superconducting qubit control](https://haoranliao.github.io/projects/straightforward_introduction), H. Liao, V. Tripathi 
+- [A straightforward introduction to superconducting qubit control](https://haoran-liao.com/projects/straightforward_introduction), H. Liao, V. Tripathi
   <br> An introductory guide to superconducting device physics  with full derivations from the scratch.
 
 ---
