@@ -11,10 +11,10 @@ nav_order: 6
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-#### Skills
+#### Expertise
 
 * QEC:
-  * Experience with circuit-level investigation of FTQC; familiar with CSS formalism; familiar with lattice surgery, code deformation / switching, magic state cultivation / distillation.
+  * Circuit-level investigation of FTQC; CSS formalism; lattice surgery, code deformation, magic state cultivation / distillation
 * Other:
   * Error mitigation / suppression, Fermionic simulation, Tensor network, QCVV, Superconducting qubit control
 * Coding:
